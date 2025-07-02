@@ -1,0 +1,2454 @@
+﻿Death rate per 100 k,year_date,country_name
+345.4,2011,Afghanistan
+339.2,2012,Afghanistan
+335.3,2013,Afghanistan
+331.9,2014,Afghanistan
+328.7,2015,Afghanistan
+323.6,2016,Afghanistan
+317.7,2017,Afghanistan
+311.1,2018,Afghanistan
+304.6,2019,Afghanistan
+288.8,2020,Afghanistan
+290.9,2021,Afghanistan
+95.7,2011,Albania
+93.8,2012,Albania
+92.5,2013,Albania
+90.9,2014,Albania
+87.8,2015,Albania
+84,2016,Albania
+78.9,2017,Albania
+72.6,2018,Albania
+68.5,2019,Albania
+66,2020,Albania
+66.3,2021,Albania
+97,2011,Algeria
+96.5,2012,Algeria
+97.1,2013,Algeria
+97.5,2014,Algeria
+96.8,2015,Algeria
+94.4,2016,Algeria
+92.1,2017,Algeria
+91,2018,Algeria
+90,2019,Algeria
+91.9,2020,Algeria
+86.9,2021,Algeria
+27.5,2011,American Samoa
+27.4,2012,American Samoa
+27.8,2013,American Samoa
+28.1,2014,American Samoa
+28.4,2015,American Samoa
+28.6,2016,American Samoa
+28.6,2017,American Samoa
+29.6,2018,American Samoa
+29.8,2019,American Samoa
+31.3,2020,American Samoa
+29.6,2021,American Samoa
+18.3,2011,Andorra
+17.6,2012,Andorra
+17.1,2013,Andorra
+16.5,2014,Andorra
+15.7,2015,Andorra
+14.5,2016,Andorra
+13,2017,Andorra
+11.9,2018,Andorra
+11.1,2019,Andorra
+9.3,2020,Andorra
+9.1,2021,Andorra
+172.4,2011,Angola
+165.6,2012,Angola
+158.6,2013,Angola
+150,2014,Angola
+146,2015,Angola
+142.8,2016,Angola
+140.9,2017,Angola
+139.3,2018,Angola
+139,2019,Angola
+138.2,2020,Angola
+138.1,2021,Angola
+46.8,2011,Antigua and Barbuda
+47.3,2012,Antigua and Barbuda
+48.7,2013,Antigua and Barbuda
+49.4,2014,Antigua and Barbuda
+49,2015,Antigua and Barbuda
+48.2,2016,Antigua and Barbuda
+47.1,2017,Antigua and Barbuda
+46.2,2018,Antigua and Barbuda
+46,2019,Antigua and Barbuda
+43.9,2020,Antigua and Barbuda
+41.2,2021,Antigua and Barbuda
+34.8,2011,Argentina
+34.6,2012,Argentina
+34.8,2013,Argentina
+34.7,2014,Argentina
+35.4,2015,Argentina
+36.8,2016,Argentina
+35.2,2017,Argentina
+34.3,2018,Argentina
+33.7,2019,Argentina
+32.1,2020,Argentina
+28.2,2021,Argentina
+137.5,2011,Armenia
+133.6,2012,Armenia
+130.1,2013,Armenia
+130.5,2014,Armenia
+129.4,2015,Armenia
+124.3,2016,Armenia
+114.7,2017,Armenia
+107.9,2018,Armenia
+103,2019,Armenia
+97.7,2020,Armenia
+99.6,2021,Armenia
+7.3,2011,Australia
+6.9,2012,Australia
+6.5,2013,Australia
+6.3,2014,Australia
+6.2,2015,Australia
+6.6,2016,Australia
+7.6,2017,Australia
+8.5,2018,Australia
+9.1,2019,Australia
+6.8,2020,Australia
+8.6,2021,Australia
+26.5,2011,Austria
+25.2,2012,Austria
+23.9,2013,Austria
+22.4,2014,Austria
+21.4,2015,Austria
+20,2016,Austria
+18.8,2017,Austria
+18,2018,Austria
+16.4,2019,Austria
+15.3,2020,Austria
+15.1,2021,Austria
+142.7,2011,Azerbaijan
+144.1,2012,Azerbaijan
+144,2013,Azerbaijan
+144.4,2014,Azerbaijan
+142,2015,Azerbaijan
+139.6,2016,Azerbaijan
+134.2,2017,Azerbaijan
+119.9,2018,Azerbaijan
+112.5,2019,Azerbaijan
+106.9,2020,Azerbaijan
+101.9,2021,Azerbaijan
+39.5,2011,Bahamas
+39.7,2012,Bahamas
+39.6,2013,Bahamas
+41.4,2014,Bahamas
+40.9,2015,Bahamas
+41.1,2016,Bahamas
+39.4,2017,Bahamas
+38.4,2018,Bahamas
+37.9,2019,Bahamas
+37.1,2020,Bahamas
+35.7,2021,Bahamas
+227,2011,Bahrain
+216.5,2012,Bahrain
+197.9,2013,Bahrain
+164.4,2014,Bahrain
+162.9,2015,Bahrain
+165.1,2016,Bahrain
+161.3,2017,Bahrain
+154.5,2018,Bahrain
+151.7,2019,Bahrain
+151.8,2020,Bahrain
+154.5,2021,Bahrain
+238.5,2011,Bangladesh
+214.8,2012,Bangladesh
+209.4,2013,Bangladesh
+213.5,2014,Bangladesh
+207.4,2015,Bangladesh
+205.8,2016,Bangladesh
+212.9,2017,Bangladesh
+207.4,2018,Bangladesh
+201.8,2019,Bangladesh
+193.9,2020,Bangladesh
+194.9,2021,Bangladesh
+48.7,2011,Barbados
+48.4,2012,Barbados
+49.9,2013,Barbados
+51.3,2014,Barbados
+51.8,2015,Barbados
+51.4,2016,Barbados
+50.9,2017,Barbados
+50.7,2018,Barbados
+51.8,2019,Barbados
+48.7,2020,Barbados
+46.8,2021,Barbados
+111.4,2011,Belarus
+97.5,2012,Belarus
+93.5,2013,Belarus
+87.7,2014,Belarus
+81.2,2015,Belarus
+78.3,2016,Belarus
+74,2017,Belarus
+72.3,2018,Belarus
+70,2019,Belarus
+64.5,2020,Belarus
+69,2021,Belarus
+27.4,2011,Belgium
+26,2012,Belgium
+23.9,2013,Belgium
+21.5,2014,Belgium
+19.9,2015,Belgium
+18.1,2016,Belgium
+16.5,2017,Belgium
+15.5,2018,Belgium
+14.6,2019,Belgium
+13.8,2020,Belgium
+13.1,2021,Belgium
+69.5,2011,Belize
+67.4,2012,Belize
+67.7,2013,Belize
+68.9,2014,Belize
+69.3,2015,Belize
+67.4,2016,Belize
+66.4,2017,Belize
+66,2018,Belize
+64.4,2019,Belize
+61.1,2020,Belize
+58.7,2021,Belize
+216.1,2011,Benin
+217.6,2012,Benin
+216.4,2013,Benin
+214.2,2014,Benin
+215.6,2015,Benin
+211,2016,Benin
+206.9,2017,Benin
+201,2018,Benin
+198.5,2019,Benin
+195.3,2020,Benin
+191,2021,Benin
+8.9,2011,Bermuda
+8.5,2012,Bermuda
+8.2,2013,Bermuda
+8,2014,Bermuda
+7.9,2015,Bermuda
+7.9,2016,Bermuda
+7.8,2017,Bermuda
+7.7,2018,Bermuda
+7.8,2019,Bermuda
+7.6,2020,Bermuda
+7.6,2021,Bermuda
+135.8,2011,Bhutan
+135.9,2012,Bhutan
+135.2,2013,Bhutan
+134.5,2014,Bhutan
+133.3,2015,Bhutan
+131.7,2016,Bhutan
+128,2017,Bhutan
+121.6,2018,Bhutan
+114.5,2019,Bhutan
+101.5,2020,Bhutan
+112.3,2021,Bhutan
+111,2011,Bolivia
+107.8,2012,Bolivia
+104.3,2013,Bolivia
+101.4,2014,Bolivia
+98.1,2015,Bolivia
+94.9,2016,Bolivia
+91.8,2017,Bolivia
+88.3,2018,Bolivia
+84.6,2019,Bolivia
+76.4,2020,Bolivia
+77.4,2021,Bolivia
+119.7,2011,Bosnia and Herzegovina
+116.3,2012,Bosnia and Herzegovina
+115.6,2013,Bosnia and Herzegovina
+114.1,2014,Bosnia and Herzegovina
+114.7,2015,Bosnia and Herzegovina
+108.9,2016,Bosnia and Herzegovina
+104,2017,Bosnia and Herzegovina
+98.9,2018,Bosnia and Herzegovina
+98.4,2019,Bosnia and Herzegovina
+97.6,2020,Bosnia and Herzegovina
+92,2021,Bosnia and Herzegovina
+134.5,2011,Botswana
+128.3,2012,Botswana
+124.5,2013,Botswana
+119.1,2014,Botswana
+112.9,2015,Botswana
+102.5,2016,Botswana
+93.4,2017,Botswana
+86.9,2018,Botswana
+83,2019,Botswana
+79.1,2020,Botswana
+78.5,2021,Botswana
+44.6,2011,Brazil
+41,2012,Brazil
+38,2013,Brazil
+35,2014,Brazil
+33.5,2015,Brazil
+33.2,2016,Brazil
+31.5,2017,Brazil
+30.8,2018,Brazil
+30.1,2019,Brazil
+28.6,2020,Brazil
+28.1,2021,Brazil
+12.8,2011,Brunei
+14.5,2012,Brunei
+17.4,2013,Brunei
+19.5,2014,Brunei
+20.5,2015,Brunei
+21.4,2016,Brunei
+20.5,2017,Brunei
+19.2,2018,Brunei
+18.6,2019,Brunei
+15,2020,Brunei
+16.1,2021,Brunei
+116.6,2011,Bulgaria
+110.2,2012,Bulgaria
+104.9,2013,Bulgaria
+104.5,2014,Bulgaria
+100.3,2015,Bulgaria
+94.4,2016,Bulgaria
+89.8,2017,Bulgaria
+84.7,2018,Bulgaria
+79.4,2019,Bulgaria
+75,2020,Bulgaria
+77.5,2021,Bulgaria
+210.4,2011,Burkina Faso
+210.9,2012,Burkina Faso
+210.2,2013,Burkina Faso
+207,2014,Burkina Faso
+209.1,2015,Burkina Faso
+207.6,2016,Burkina Faso
+203.2,2017,Burkina Faso
+197.6,2018,Burkina Faso
+193.2,2019,Burkina Faso
+186.2,2020,Burkina Faso
+182.3,2021,Burkina Faso
+227.8,2011,Burundi
+225.6,2012,Burundi
+222.8,2013,Burundi
+220.6,2014,Burundi
+218.5,2015,Burundi
+216.2,2016,Burundi
+214.5,2017,Burundi
+213.3,2018,Burundi
+213,2019,Burundi
+206.5,2020,Burundi
+207.8,2021,Burundi
+249.1,2011,Cambodia
+246.2,2012,Cambodia
+244,2013,Cambodia
+240.9,2014,Cambodia
+238.3,2015,Cambodia
+235.9,2016,Cambodia
+233,2017,Cambodia
+230.6,2018,Cambodia
+227.9,2019,Cambodia
+226.4,2020,Cambodia
+218.3,2021,Cambodia
+238.4,2011,Cameroon
+236.4,2012,Cameroon
+232.7,2013,Cameroon
+228.7,2014,Cameroon
+226.7,2015,Cameroon
+219.4,2016,Cameroon
+212,2017,Cameroon
+205.1,2018,Cameroon
+199,2019,Cameroon
+190.4,2020,Cameroon
+187.7,2021,Cameroon
+9.3,2011,Canada
+8.8,2012,Canada
+8.4,2013,Canada
+8.1,2014,Canada
+7.4,2015,Canada
+6.9,2016,Canada
+6.2,2017,Canada
+5.8,2018,Canada
+5.5,2019,Canada
+5.8,2020,Canada
+5,2021,Canada
+89.5,2011,Cape Verde
+95.5,2012,Cape Verde
+100.2,2013,Cape Verde
+106,2014,Cape Verde
+111.8,2015,Cape Verde
+113.6,2016,Cape Verde
+110.7,2017,Cape Verde
+128.1,2018,Cape Verde
+123.7,2019,Cape Verde
+123.9,2020,Cape Verde
+118.3,2021,Cape Verde
+351.2,2011,Central African Republic
+347.1,2012,Central African Republic
+346.5,2013,Central African Republic
+343.1,2014,Central African Republic
+342.6,2015,Central African Republic
+339.8,2016,Central African Republic
+337.8,2017,Central African Republic
+335.3,2018,Central African Republic
+332.4,2019,Central African Republic
+324.5,2020,Central African Republic
+319.7,2021,Central African Republic
+260.9,2011,Chad
+258.6,2012,Chad
+254.9,2013,Chad
+250.9,2014,Chad
+252,2015,Chad
+249.1,2016,Chad
+248,2017,Chad
+246.5,2018,Chad
+244.4,2019,Chad
+240.1,2020,Chad
+237.5,2021,Chad
+38.1,2011,Chile
+38,2012,Chile
+37.8,2013,Chile
+37,2014,Chile
+36.2,2015,Chile
+34.7,2016,Chile
+33.1,2017,Chile
+31.5,2018,Chile
+30.7,2019,Chile
+27.8,2020,Chile
+27.3,2021,Chile
+210.4,2011,China
+197.4,2012,China
+189.2,2013,China
+180.1,2014,China
+171.1,2015,China
+163.8,2016,China
+153.3,2017,China
+141.6,2018,China
+132.4,2019,China
+124.1,2020,China
+129.5,2021,China
+41.9,2011,Colombia
+39.9,2012,Colombia
+37.9,2013,Colombia
+35.8,2014,Colombia
+34.4,2015,Colombia
+32.6,2016,Colombia
+29.7,2017,Colombia
+28.5,2018,Colombia
+26.5,2019,Colombia
+25.7,2020,Colombia
+26.2,2021,Colombia
+164.7,2011,Comoros
+162.5,2012,Comoros
+160.7,2013,Comoros
+163.3,2014,Comoros
+162.1,2015,Comoros
+160.4,2016,Comoros
+158.3,2017,Comoros
+155.6,2018,Comoros
+155.2,2019,Comoros
+153.4,2020,Comoros
+153.2,2021,Comoros
+223.5,2011,Congo
+219,2012,Congo
+215.9,2013,Congo
+211.8,2014,Congo
+207.6,2015,Congo
+201.4,2016,Congo
+196.4,2017,Congo
+192.8,2018,Congo
+189.2,2019,Congo
+184.9,2020,Congo
+184.9,2021,Congo
+14.6,2011,Cook Islands
+14.4,2012,Cook Islands
+14.4,2013,Cook Islands
+14.3,2014,Cook Islands
+14.3,2015,Cook Islands
+14.5,2016,Cook Islands
+14.7,2017,Cook Islands
+15.4,2018,Cook Islands
+15.6,2019,Cook Islands
+15.4,2020,Cook Islands
+15.3,2021,Cook Islands
+28.2,2011,Costa Rica
+27.9,2012,Costa Rica
+27.7,2013,Costa Rica
+27.4,2014,Costa Rica
+27,2015,Costa Rica
+26.7,2016,Costa Rica
+23.9,2017,Costa Rica
+21.9,2018,Costa Rica
+20.1,2019,Costa Rica
+19.8,2020,Costa Rica
+18.7,2021,Costa Rica
+237.1,2011,Cote d'Ivoire
+237.1,2012,Cote d'Ivoire
+237.3,2013,Cote d'Ivoire
+234.7,2014,Cote d'Ivoire
+235.6,2015,Cote d'Ivoire
+228.9,2016,Cote d'Ivoire
+221,2017,Cote d'Ivoire
+214,2018,Cote d'Ivoire
+206.9,2019,Cote d'Ivoire
+203.2,2020,Cote d'Ivoire
+196.3,2021,Cote d'Ivoire
+64.7,2011,Croatia
+62.2,2012,Croatia
+58.5,2013,Croatia
+57.8,2014,Croatia
+58.6,2015,Croatia
+52.3,2016,Croatia
+49.5,2017,Croatia
+45.1,2018,Croatia
+42,2019,Croatia
+41.8,2020,Croatia
+40.8,2021,Croatia
+46.4,2011,Cuba
+47.5,2012,Cuba
+48.9,2013,Cuba
+50,2014,Cuba
+51.6,2015,Cuba
+50.3,2016,Cuba
+50.7,2017,Cuba
+49.3,2018,Cuba
+49.2,2019,Cuba
+49.5,2020,Cuba
+46.7,2021,Cuba
+52.3,2011,Cyprus
+49.8,2012,Cyprus
+47.1,2013,Cyprus
+45,2014,Cyprus
+43.3,2015,Cyprus
+40.6,2016,Cyprus
+39.8,2017,Cyprus
+38,2018,Cyprus
+36.1,2019,Cyprus
+30.2,2020,Cyprus
+32.3,2021,Cyprus
+60,2011,Czechia
+57,2012,Czechia
+54.2,2013,Czechia
+49.7,2014,Czechia
+47.7,2015,Czechia
+43.7,2016,Czechia
+40,2017,Czechia
+36.8,2018,Czechia
+34.5,2019,Czechia
+34.2,2020,Czechia
+32.7,2021,Czechia
+249.4,2011,Democratic Republic of Congo
+247.8,2012,Democratic Republic of Congo
+245.3,2013,Democratic Republic of Congo
+243.3,2014,Democratic Republic of Congo
+241.7,2015,Democratic Republic of Congo
+238.6,2016,Democratic Republic of Congo
+235.1,2017,Democratic Republic of Congo
+233.1,2018,Democratic Republic of Congo
+231,2019,Democratic Republic of Congo
+229.8,2020,Democratic Republic of Congo
+229,2021,Democratic Republic of Congo
+23.8,2011,Denmark
+21.8,2012,Denmark
+19.8,2013,Denmark
+17.7,2014,Denmark
+16.3,2015,Denmark
+15.4,2016,Denmark
+14.8,2017,Denmark
+14.8,2018,Denmark
+13.9,2019,Denmark
+12.3,2020,Denmark
+13.1,2021,Denmark
+138.4,2011,Djibouti
+138.3,2012,Djibouti
+138.4,2013,Djibouti
+137.2,2014,Djibouti
+137.6,2015,Djibouti
+136.1,2016,Djibouti
+134.2,2017,Djibouti
+130.5,2018,Djibouti
+127.4,2019,Djibouti
+119.3,2020,Djibouti
+123.7,2021,Djibouti
+63.5,2011,Dominica
+64.8,2012,Dominica
+66.3,2013,Dominica
+67.3,2014,Dominica
+67.8,2015,Dominica
+67,2016,Dominica
+65.8,2017,Dominica
+64.7,2018,Dominica
+64,2019,Dominica
+65.2,2020,Dominica
+62.4,2021,Dominica
+58.3,2011,Dominican Republic
+60.3,2012,Dominican Republic
+62.8,2013,Dominican Republic
+61.6,2014,Dominican Republic
+61.2,2015,Dominican Republic
+60.4,2016,Dominican Republic
+59,2017,Dominican Republic
+57.8,2018,Dominican Republic
+55.8,2019,Dominican Republic
+58.6,2020,Dominican Republic
+55.1,2021,Dominican Republic
+185.9,2011,East Timor
+185.5,2012,East Timor
+185.5,2013,East Timor
+185.3,2014,East Timor
+182.6,2015,East Timor
+184.1,2016,East Timor
+188.6,2017,East Timor
+194.9,2018,East Timor
+199.7,2019,East Timor
+199.7,2020,East Timor
+193.9,2021,East Timor
+46.4,2011,Ecuador
+46,2012,Ecuador
+45.2,2013,Ecuador
+44.7,2014,Ecuador
+43.8,2015,Ecuador
+44.2,2016,Ecuador
+43.5,2017,Ecuador
+42.7,2018,Ecuador
+40.2,2019,Ecuador
+34.4,2020,Ecuador
+35.9,2021,Ecuador
+310.9,2011,Egypt
+311.2,2012,Egypt
+303.1,2013,Egypt
+304.9,2014,Egypt
+305.2,2015,Egypt
+288.3,2016,Egypt
+273.7,2017,Egypt
+269.9,2018,Egypt
+263.2,2019,Egypt
+238.8,2020,Egypt
+253.4,2021,Egypt
+65.9,2011,El Salvador
+61.6,2012,El Salvador
+63,2013,El Salvador
+64.2,2014,El Salvador
+66.3,2015,El Salvador
+59.3,2016,El Salvador
+54.5,2017,El Salvador
+48.9,2018,El Salvador
+48.3,2019,El Salvador
+49.9,2020,El Salvador
+46.5,2021,El Salvador
+110.4,2011,Equatorial Guinea
+112.5,2012,Equatorial Guinea
+114.4,2013,Equatorial Guinea
+116.3,2014,Equatorial Guinea
+122.5,2015,Equatorial Guinea
+123.3,2016,Equatorial Guinea
+118.6,2017,Equatorial Guinea
+115.7,2018,Equatorial Guinea
+115.6,2019,Equatorial Guinea
+123.3,2020,Equatorial Guinea
+114.6,2021,Equatorial Guinea
+243.5,2011,Eritrea
+240.6,2012,Eritrea
+238.7,2013,Eritrea
+234.1,2014,Eritrea
+232.7,2015,Eritrea
+229.8,2016,Eritrea
+227.6,2017,Eritrea
+224.2,2018,Eritrea
+220.8,2019,Eritrea
+210.7,2020,Eritrea
+213.3,2021,Eritrea
+20,2011,Estonia
+17.3,2012,Estonia
+14.3,2013,Estonia
+12.3,2014,Estonia
+10.6,2015,Estonia
+10.3,2016,Estonia
+9.1,2017,Estonia
+8.7,2018,Estonia
+7.8,2019,Estonia
+5.9,2020,Estonia
+7.4,2021,Estonia
+249.3,2011,Eswatini
+241.5,2012,Eswatini
+233.9,2013,Eswatini
+222.6,2014,Eswatini
+212.5,2015,Eswatini
+205.1,2016,Eswatini
+199.5,2017,Eswatini
+193.3,2018,Eswatini
+185.9,2019,Eswatini
+166.8,2020,Eswatini
+160.9,2021,Eswatini
+170,2011,Ethiopia
+164,2012,Ethiopia
+159,2013,Ethiopia
+155.3,2014,Ethiopia
+152,2015,Ethiopia
+149.2,2016,Ethiopia
+147.6,2017,Ethiopia
+145.8,2018,Ethiopia
+144.3,2019,Ethiopia
+140.3,2020,Ethiopia
+140.5,2021,Ethiopia
+172,2011,Fiji
+165.6,2012,Fiji
+159.9,2013,Fiji
+154.7,2014,Fiji
+150,2015,Fiji
+145.7,2016,Fiji
+141.7,2017,Fiji
+137.7,2018,Fiji
+133.1,2019,Fiji
+125.4,2020,Fiji
+129.2,2021,Fiji
+7.5,2011,Finland
+6.6,2012,Finland
+5.6,2013,Finland
+4.7,2014,Finland
+4.2,2015,Finland
+3.9,2016,Finland
+3.6,2017,Finland
+3.5,2018,Finland
+3.3,2019,Finland
+2.3,2020,Finland
+3.1,2021,Finland
+15.9,2011,France
+15.1,2012,France
+13.8,2013,France
+12.6,2014,France
+12.1,2015,France
+11.1,2016,France
+10.3,2017,France
+9.7,2018,France
+9,2019,France
+8.5,2020,France
+8.3,2021,France
+114.2,2011,Gabon
+114.6,2012,Gabon
+116.2,2013,Gabon
+117.2,2014,Gabon
+119.1,2015,Gabon
+116.7,2016,Gabon
+112.9,2017,Gabon
+110.3,2018,Gabon
+108.6,2019,Gabon
+113,2020,Gabon
+105.2,2021,Gabon
+239.9,2011,Gambia
+240.4,2012,Gambia
+242.8,2013,Gambia
+250.9,2014,Gambia
+249.1,2015,Gambia
+252.7,2016,Gambia
+259.1,2017,Gambia
+255.8,2018,Gambia
+257.4,2019,Gambia
+250.1,2020,Gambia
+246.8,2021,Gambia
+118,2011,Georgia
+110.5,2012,Georgia
+105,2013,Georgia
+100.9,2014,Georgia
+96.2,2015,Georgia
+90.8,2016,Georgia
+82.8,2017,Georgia
+77.6,2018,Georgia
+72.8,2019,Georgia
+72.3,2020,Georgia
+70.1,2021,Georgia
+27.2,2011,Germany
+25.8,2012,Germany
+24.3,2013,Germany
+21.8,2014,Germany
+20.6,2015,Germany
+19.3,2016,Germany
+17.7,2017,Germany
+16.5,2018,Germany
+14.9,2019,Germany
+13.8,2020,Germany
+14,2021,Germany
+229.4,2011,Ghana
+224.9,2012,Ghana
+220.5,2013,Ghana
+216.4,2014,Ghana
+216.5,2015,Ghana
+211.6,2016,Ghana
+205.3,2017,Ghana
+199.9,2018,Ghana
+195.4,2019,Ghana
+191.5,2020,Ghana
+187.9,2021,Ghana
+47.5,2011,Greece
+44.9,2012,Greece
+40.5,2013,Greece
+35.9,2014,Greece
+33.7,2015,Greece
+31.5,2016,Greece
+30.1,2017,Greece
+28.4,2018,Greece
+27.3,2019,Greece
+26.2,2020,Greece
+26.7,2021,Greece
+13.2,2011,Greenland
+13,2012,Greenland
+12.9,2013,Greenland
+12.6,2014,Greenland
+11.8,2015,Greenland
+11.4,2016,Greenland
+11.2,2017,Greenland
+11.9,2018,Greenland
+12,2019,Greenland
+12.4,2020,Greenland
+10.7,2021,Greenland
+73.7,2011,Grenada
+71.8,2012,Grenada
+74,2013,Grenada
+75.2,2014,Grenada
+74.3,2015,Grenada
+75.4,2016,Grenada
+73.2,2017,Grenada
+71.5,2018,Grenada
+72.3,2019,Grenada
+72.4,2020,Grenada
+67.9,2021,Grenada
+14.5,2011,Guam
+17,2012,Guam
+21.2,2013,Guam
+25.4,2014,Guam
+25.8,2015,Guam
+24.8,2016,Guam
+24.6,2017,Guam
+24.2,2018,Guam
+22.9,2019,Guam
+17.8,2020,Guam
+18.8,2021,Guam
+132.3,2011,Guatemala
+127.2,2012,Guatemala
+127.9,2013,Guatemala
+125,2014,Guatemala
+124.1,2015,Guatemala
+120.2,2016,Guatemala
+112.5,2017,Guatemala
+108.4,2018,Guatemala
+108.1,2019,Guatemala
+91.8,2020,Guatemala
+88.6,2021,Guatemala
+267.5,2011,Guinea
+265.9,2012,Guinea
+263.7,2013,Guinea
+263.1,2014,Guinea
+263.6,2015,Guinea
+259.7,2016,Guinea
+253.9,2017,Guinea
+248.7,2018,Guinea
+243.1,2019,Guinea
+235.8,2020,Guinea
+230.6,2021,Guinea
+337.7,2011,Guinea-Bissau
+335.2,2012,Guinea-Bissau
+332,2013,Guinea-Bissau
+331.5,2014,Guinea-Bissau
+330.7,2015,Guinea-Bissau
+325.9,2016,Guinea-Bissau
+322.5,2017,Guinea-Bissau
+318.2,2018,Guinea-Bissau
+314.2,2019,Guinea-Bissau
+303.6,2020,Guinea-Bissau
+296.9,2021,Guinea-Bissau
+119.1,2011,Guyana
+117.3,2012,Guyana
+114.2,2013,Guyana
+113.2,2014,Guyana
+112.2,2015,Guyana
+110.6,2016,Guyana
+109.3,2017,Guyana
+108.6,2018,Guyana
+105.1,2019,Guyana
+98.2,2020,Guyana
+96.9,2021,Guyana
+299.6,2011,Haiti
+296.1,2012,Haiti
+294,2013,Haiti
+292.6,2014,Haiti
+291.8,2015,Haiti
+289,2016,Haiti
+284.9,2017,Haiti
+282.5,2018,Haiti
+280.4,2019,Haiti
+275.1,2020,Haiti
+269.8,2021,Haiti
+182.2,2011,Honduras
+189.8,2012,Honduras
+187.4,2013,Honduras
+184.3,2014,Honduras
+181.3,2015,Honduras
+175.8,2016,Honduras
+168.4,2017,Honduras
+160.6,2018,Honduras
+155.7,2019,Honduras
+153.4,2020,Honduras
+149.5,2021,Honduras
+73.6,2011,Hungary
+71,2012,Hungary
+66.7,2013,Hungary
+64.1,2014,Hungary
+62.5,2015,Hungary
+56.9,2016,Hungary
+54.3,2017,Hungary
+50.5,2018,Hungary
+46.4,2019,Hungary
+43.5,2020,Hungary
+42.9,2021,Hungary
+7,2011,Iceland
+6.4,2012,Iceland
+5.8,2013,Iceland
+5.3,2014,Iceland
+4.8,2015,Iceland
+4.5,2016,Iceland
+4.2,2017,Iceland
+4.2,2018,Iceland
+3.8,2019,Iceland
+2.9,2020,Iceland
+3.5,2021,Iceland
+221.3,2011,India
+224,2012,India
+236.6,2013,India
+246.5,2014,India
+237.9,2015,India
+229.4,2016,India
+222.5,2017,India
+217.1,2018,India
+210.8,2019,India
+196,2020,India
+200.7,2021,India
+172.5,2011,Indonesia
+164.2,2012,Indonesia
+155,2013,Indonesia
+145.9,2014,Indonesia
+139.5,2015,Indonesia
+133.8,2016,Indonesia
+128.2,2017,Indonesia
+124.5,2018,Indonesia
+119.6,2019,Indonesia
+111.5,2020,Indonesia
+117.8,2021,Indonesia
+93.9,2011,Iran
+92.3,2012,Iran
+92.5,2013,Iran
+91.9,2014,Iran
+92.6,2015,Iran
+91.3,2016,Iran
+88.7,2017,Iran
+84.8,2018,Iran
+82.6,2019,Iran
+75.2,2020,Iran
+76.2,2021,Iran
+160,2011,Iraq
+155.6,2012,Iraq
+150.7,2013,Iraq
+146.4,2014,Iraq
+143.4,2015,Iraq
+138.7,2016,Iraq
+133.7,2017,Iraq
+134.4,2018,Iraq
+140,2019,Iraq
+154.8,2020,Iraq
+152.7,2021,Iraq
+16.9,2011,Ireland
+15.7,2012,Ireland
+14.5,2013,Ireland
+12.9,2014,Ireland
+12.1,2015,Ireland
+11.3,2016,Ireland
+10.2,2017,Ireland
+9.4,2018,Ireland
+8.8,2019,Ireland
+8.6,2020,Ireland
+7.3,2021,Ireland
+34.2,2011,Israel
+32.4,2012,Israel
+30.8,2013,Israel
+29.3,2014,Israel
+28.4,2015,Israel
+26.7,2016,Israel
+25.3,2017,Israel
+23.8,2018,Israel
+22.8,2019,Israel
+20.6,2020,Israel
+20.6,2021,Israel
+28.1,2011,Italy
+27,2012,Italy
+25.5,2013,Italy
+24.4,2014,Italy
+24.1,2015,Italy
+22.1,2016,Italy
+20.8,2017,Italy
+19.4,2018,Italy
+18.2,2019,Italy
+17.9,2020,Italy
+17.6,2021,Italy
+51.9,2011,Jamaica
+45.1,2012,Jamaica
+45.9,2013,Jamaica
+50.2,2014,Jamaica
+50.4,2015,Jamaica
+49.4,2016,Jamaica
+48.2,2017,Jamaica
+47.3,2018,Jamaica
+47.1,2019,Jamaica
+45.5,2020,Jamaica
+45.7,2021,Jamaica
+11.4,2011,Japan
+11.7,2012,Japan
+12.1,2013,Japan
+12.3,2014,Japan
+12.2,2015,Japan
+11.9,2016,Japan
+11.4,2017,Japan
+11.2,2018,Japan
+11,2019,Japan
+10.3,2020,Japan
+10.4,2021,Japan
+82.2,2011,Jordan
+80.3,2012,Jordan
+77.5,2013,Jordan
+74.5,2014,Jordan
+70.4,2015,Jordan
+68.2,2016,Jordan
+65.8,2017,Jordan
+62.5,2018,Jordan
+61.6,2019,Jordan
+59.2,2020,Jordan
+62.8,2021,Jordan
+119.9,2011,Kazakhstan
+120.1,2012,Kazakhstan
+116.7,2013,Kazakhstan
+113.8,2014,Kazakhstan
+113,2015,Kazakhstan
+111.6,2016,Kazakhstan
+107.2,2017,Kazakhstan
+103.2,2018,Kazakhstan
+99.4,2019,Kazakhstan
+94.4,2020,Kazakhstan
+94.2,2021,Kazakhstan
+173,2011,Kenya
+171.4,2012,Kenya
+169,2013,Kenya
+166.5,2014,Kenya
+164.6,2015,Kenya
+161.3,2016,Kenya
+158.7,2017,Kenya
+156.3,2018,Kenya
+154,2019,Kenya
+150.2,2020,Kenya
+147.1,2021,Kenya
+284.7,2011,Kiribati
+277.1,2012,Kiribati
+268.8,2013,Kiribati
+260.5,2014,Kiribati
+252.9,2015,Kiribati
+245.1,2016,Kiribati
+237.7,2017,Kiribati
+230.4,2018,Kiribati
+223.5,2019,Kiribati
+217.3,2020,Kiribati
+221.8,2021,Kiribati
+83.8,2011,Kuwait
+84.6,2012,Kuwait
+81.4,2013,Kuwait
+79.4,2014,Kuwait
+84.3,2015,Kuwait
+74.7,2016,Kuwait
+73.2,2017,Kuwait
+68.7,2018,Kuwait
+71.1,2019,Kuwait
+76.6,2020,Kuwait
+71.3,2021,Kuwait
+223.9,2011,Kyrgyzstan
+217.8,2012,Kyrgyzstan
+204.8,2013,Kyrgyzstan
+197.1,2014,Kyrgyzstan
+193.1,2015,Kyrgyzstan
+182.9,2016,Kyrgyzstan
+172.5,2017,Kyrgyzstan
+155.9,2018,Kyrgyzstan
+146.2,2019,Kyrgyzstan
+136.9,2020,Kyrgyzstan
+137.9,2021,Kyrgyzstan
+284.9,2011,Laos
+277.5,2012,Laos
+271.9,2013,Laos
+265.7,2014,Laos
+260.2,2015,Laos
+254.6,2016,Laos
+248.1,2017,Laos
+242.5,2018,Laos
+237.4,2019,Laos
+232.8,2020,Laos
+230.5,2021,Laos
+68,2011,Latvia
+61.7,2012,Latvia
+56.8,2013,Latvia
+50.4,2014,Latvia
+46,2015,Latvia
+43.5,2016,Latvia
+41.5,2017,Latvia
+39.7,2018,Latvia
+36,2019,Latvia
+32.4,2020,Latvia
+35,2021,Latvia
+60.4,2011,Lebanon
+58.9,2012,Lebanon
+57.4,2013,Lebanon
+55.4,2014,Lebanon
+53.4,2015,Lebanon
+51.1,2016,Lebanon
+48.9,2017,Lebanon
+47.4,2018,Lebanon
+46.8,2019,Lebanon
+43.6,2020,Lebanon
+45.7,2021,Lebanon
+302.2,2011,Lesotho
+305.2,2012,Lesotho
+304.5,2013,Lesotho
+304.3,2014,Lesotho
+302.2,2015,Lesotho
+293.3,2016,Lesotho
+281.8,2017,Lesotho
+273.9,2018,Lesotho
+270.4,2019,Lesotho
+258.4,2020,Lesotho
+240.6,2021,Lesotho
+230.7,2011,Liberia
+231,2012,Liberia
+229.4,2013,Liberia
+224.7,2014,Liberia
+224.3,2015,Liberia
+219.4,2016,Liberia
+213,2017,Liberia
+210.4,2018,Liberia
+209.5,2019,Liberia
+207,2020,Liberia
+205.2,2021,Liberia
+125,2011,Libya
+115.9,2012,Libya
+110.3,2013,Libya
+106,2014,Libya
+103.6,2015,Libya
+105.7,2016,Libya
+106.2,2017,Libya
+105.5,2018,Libya
+104.2,2019,Libya
+97,2020,Libya
+100.9,2021,Libya
+51.6,2011,Lithuania
+47.6,2012,Lithuania
+44.4,2013,Lithuania
+39.5,2014,Lithuania
+37.9,2015,Lithuania
+35.8,2016,Lithuania
+32.4,2017,Lithuania
+30.4,2018,Lithuania
+27.5,2019,Lithuania
+22.6,2020,Lithuania
+26.3,2021,Lithuania
+20.1,2011,Luxembourg
+18.5,2012,Luxembourg
+16.9,2013,Luxembourg
+15.6,2014,Luxembourg
+14.4,2015,Luxembourg
+13,2016,Luxembourg
+11.3,2017,Luxembourg
+10.5,2018,Luxembourg
+9.7,2019,Luxembourg
+9.4,2020,Luxembourg
+8.7,2021,Luxembourg
+268.9,2011,Madagascar
+266,2012,Madagascar
+264.3,2013,Madagascar
+263.4,2014,Madagascar
+262.7,2015,Madagascar
+261.1,2016,Madagascar
+259.1,2017,Madagascar
+257.9,2018,Madagascar
+255.9,2019,Madagascar
+249.9,2020,Madagascar
+248.6,2021,Madagascar
+229.2,2011,Malawi
+223.6,2012,Malawi
+219,2013,Malawi
+215.7,2014,Malawi
+215.1,2015,Malawi
+214.2,2016,Malawi
+212.7,2017,Malawi
+212.5,2018,Malawi
+211.3,2019,Malawi
+204.5,2020,Malawi
+201.1,2021,Malawi
+68.4,2011,Malaysia
+65.3,2012,Malaysia
+64.3,2013,Malaysia
+64,2014,Malaysia
+65.7,2015,Malaysia
+64.2,2016,Malaysia
+64.5,2017,Malaysia
+65.3,2018,Malaysia
+65.1,2019,Malaysia
+51.7,2020,Malaysia
+63.2,2021,Malaysia
+46.5,2011,Maldives
+42,2012,Maldives
+37.7,2013,Maldives
+34.1,2014,Maldives
+32.8,2015,Maldives
+32.3,2016,Maldives
+32.8,2017,Maldives
+33.1,2018,Maldives
+32.8,2019,Maldives
+29.8,2020,Maldives
+31.9,2021,Maldives
+210.1,2011,Mali
+210.9,2012,Mali
+210.2,2013,Mali
+209,2014,Mali
+209.8,2015,Mali
+205.9,2016,Mali
+203.6,2017,Mali
+200.9,2018,Mali
+198.1,2019,Mali
+192.6,2020,Mali
+187.7,2021,Mali
+33.6,2011,Malta
+32,2012,Malta
+28.9,2013,Malta
+25.8,2014,Malta
+23.4,2015,Malta
+21.4,2016,Malta
+20.4,2017,Malta
+19.9,2018,Malta
+18.9,2019,Malta
+15.8,2020,Malta
+18,2021,Malta
+222,2011,Marshall Islands
+219.3,2012,Marshall Islands
+215.8,2013,Marshall Islands
+212.8,2014,Marshall Islands
+209.2,2015,Marshall Islands
+204.4,2016,Marshall Islands
+198.6,2017,Marshall Islands
+192.1,2018,Marshall Islands
+186,2019,Marshall Islands
+179.1,2020,Marshall Islands
+182.7,2021,Marshall Islands
+177.7,2011,Mauritania
+178.9,2012,Mauritania
+176.1,2013,Mauritania
+173.5,2014,Mauritania
+174.4,2015,Mauritania
+170.2,2016,Mauritania
+170.8,2017,Mauritania
+168.8,2018,Mauritania
+170.8,2019,Mauritania
+168.2,2020,Mauritania
+170.5,2021,Mauritania
+28.2,2011,Mauritius
+27.6,2012,Mauritius
+26.3,2013,Mauritius
+26.2,2014,Mauritius
+25.3,2015,Mauritius
+24.8,2016,Mauritius
+24.6,2017,Mauritius
+25.5,2018,Mauritius
+25.3,2019,Mauritius
+23.1,2020,Mauritius
+24.6,2021,Mauritius
+54.5,2011,Mexico
+53.9,2012,Mexico
+55.4,2013,Mexico
+55.7,2014,Mexico
+54.5,2015,Mexico
+53.7,2016,Mexico
+49.5,2017,Mexico
+46.5,2018,Mexico
+44.6,2019,Mexico
+43.9,2020,Mexico
+43.4,2021,Mexico
+217.7,2011,Micronesia (country)
+213.5,2012,Micronesia (country)
+209.6,2013,Micronesia (country)
+205.6,2014,Micronesia (country)
+201.8,2015,Micronesia (country)
+196.4,2016,Micronesia (country)
+190.8,2017,Micronesia (country)
+185.2,2018,Micronesia (country)
+179.8,2019,Micronesia (country)
+174.5,2020,Micronesia (country)
+178.4,2021,Micronesia (country)
+111.6,2011,Moldova
+106.2,2012,Moldova
+97.9,2013,Moldova
+95.9,2014,Moldova
+91.4,2015,Moldova
+82.7,2016,Moldova
+73.7,2017,Moldova
+70.3,2018,Moldova
+66.3,2019,Moldova
+61,2020,Moldova
+64.5,2021,Moldova
+24.5,2011,Monaco
+23.5,2012,Monaco
+22.5,2013,Monaco
+21.7,2014,Monaco
+20.5,2015,Monaco
+19.1,2016,Monaco
+17.2,2017,Monaco
+15.5,2018,Monaco
+14.5,2019,Monaco
+13.9,2020,Monaco
+13.8,2021,Monaco
+213.8,2011,Mongolia
+201,2012,Mongolia
+190.3,2013,Mongolia
+176.5,2014,Mongolia
+171.3,2015,Mongolia
+163,2016,Mongolia
+154,2017,Mongolia
+147.9,2018,Mongolia
+137.9,2019,Mongolia
+126.9,2020,Mongolia
+131.1,2021,Mongolia
+111.8,2011,Montenegro
+111.3,2012,Montenegro
+112.1,2013,Montenegro
+113.1,2014,Montenegro
+114.2,2015,Montenegro
+113.7,2016,Montenegro
+109.5,2017,Montenegro
+103.6,2018,Montenegro
+98.8,2019,Montenegro
+100.7,2020,Montenegro
+96.4,2021,Montenegro
+126.5,2011,Morocco
+124.6,2012,Morocco
+123.4,2013,Morocco
+121.6,2014,Morocco
+119.5,2015,Morocco
+114.9,2016,Morocco
+108.5,2017,Morocco
+102.8,2018,Morocco
+99.6,2019,Morocco
+99.6,2020,Morocco
+96.9,2021,Morocco
+257.1,2011,Mozambique
+258.5,2012,Mozambique
+258,2013,Mozambique
+254.6,2014,Mozambique
+252,2015,Mozambique
+246.8,2016,Mozambique
+242.4,2017,Mozambique
+237.4,2018,Mozambique
+233.8,2019,Mozambique
+225,2020,Mozambique
+219.4,2021,Mozambique
+306,2011,Myanmar
+295.2,2012,Myanmar
+287.5,2013,Myanmar
+278.2,2014,Myanmar
+271.3,2015,Myanmar
+264.9,2016,Myanmar
+258.4,2017,Myanmar
+253.5,2018,Myanmar
+248.8,2019,Myanmar
+243.4,2020,Myanmar
+244.9,2021,Myanmar
+178.9,2011,Namibia
+171.3,2012,Namibia
+165.1,2013,Namibia
+160.6,2014,Namibia
+156.1,2015,Namibia
+150.5,2016,Namibia
+144.2,2017,Namibia
+138.3,2018,Namibia
+134.7,2019,Namibia
+129.9,2020,Namibia
+125.3,2021,Namibia
+79.9,2011,Nauru
+72.3,2012,Nauru
+64.4,2013,Nauru
+57.5,2014,Nauru
+52.7,2015,Nauru
+49.6,2016,Nauru
+47.1,2017,Nauru
+45.1,2018,Nauru
+43.5,2019,Nauru
+42.6,2020,Nauru
+42.8,2021,Nauru
+253.3,2011,Nepal
+255.2,2012,Nepal
+256.4,2013,Nepal
+256.4,2014,Nepal
+257.2,2015,Nepal
+256.2,2016,Nepal
+253,2017,Nepal
+249.4,2018,Nepal
+245.4,2019,Nepal
+238.9,2020,Nepal
+241.8,2021,Nepal
+25.2,2011,Netherlands
+23.9,2012,Netherlands
+22.1,2013,Netherlands
+20.1,2014,Netherlands
+19.1,2015,Netherlands
+17.9,2016,Netherlands
+16.8,2017,Netherlands
+16.2,2018,Netherlands
+15.1,2019,Netherlands
+14,2020,Netherlands
+14.5,2021,Netherlands
+7.7,2011,New Zealand
+7.2,2012,New Zealand
+6.6,2013,New Zealand
+6.4,2014,New Zealand
+6.1,2015,New Zealand
+6.2,2016,New Zealand
+6.7,2017,New Zealand
+7.4,2018,New Zealand
+7.6,2019,New Zealand
+5.3,2020,New Zealand
+7.2,2021,New Zealand
+88.4,2011,Nicaragua
+87.1,2012,Nicaragua
+85.1,2013,Nicaragua
+81.7,2014,Nicaragua
+76.6,2015,Nicaragua
+76.6,2016,Nicaragua
+69.5,2017,Nicaragua
+66.7,2018,Nicaragua
+64.8,2019,Nicaragua
+59.4,2020,Nicaragua
+57.5,2021,Nicaragua
+211.4,2011,Niger
+212.6,2012,Niger
+213.1,2013,Niger
+213.5,2014,Niger
+217.6,2015,Niger
+214.8,2016,Niger
+210.4,2017,Niger
+206.9,2018,Niger
+205.1,2019,Niger
+200.3,2020,Niger
+196.8,2021,Niger
+185.2,2011,Nigeria
+185.7,2012,Nigeria
+186,2013,Nigeria
+185,2014,Nigeria
+186.2,2015,Nigeria
+181.6,2016,Nigeria
+175.3,2017,Nigeria
+169.8,2018,Nigeria
+165.1,2019,Nigeria
+160,2020,Nigeria
+157.7,2021,Nigeria
+32,2011,Niue
+31.1,2012,Niue
+30.5,2013,Niue
+30,2014,Niue
+29.8,2015,Niue
+30,2016,Niue
+30.6,2017,Niue
+31.7,2018,Niue
+32,2019,Niue
+32.2,2020,Niue
+33.5,2021,Niue
+308.4,2011,North Korea
+304.8,2012,North Korea
+300,2013,North Korea
+293.2,2014,North Korea
+286.4,2015,North Korea
+278.4,2016,North Korea
+271.2,2017,North Korea
+265.9,2018,North Korea
+260.5,2019,North Korea
+254.2,2020,North Korea
+252.1,2021,North Korea
+224.3,2011,North Macedonia
+218.4,2012,North Macedonia
+205,2013,North Macedonia
+197.9,2014,North Macedonia
+189.9,2015,North Macedonia
+178.5,2016,North Macedonia
+163,2017,North Macedonia
+152.8,2018,North Macedonia
+149.7,2019,North Macedonia
+137.3,2020,North Macedonia
+133.1,2021,North Macedonia
+29.4,2011,Northern Mariana Islands
+33,2012,Northern Mariana Islands
+37.6,2013,Northern Mariana Islands
+41.4,2014,Northern Mariana Islands
+42.8,2015,Northern Mariana Islands
+41.7,2016,Northern Mariana Islands
+39.8,2017,Northern Mariana Islands
+38.9,2018,Northern Mariana Islands
+38,2019,Northern Mariana Islands
+32.6,2020,Northern Mariana Islands
+37.9,2021,Northern Mariana Islands
+9.7,2011,Norway
+9,2012,Norway
+8,2013,Norway
+7.1,2014,Norway
+6.4,2015,Norway
+5.9,2016,Norway
+5.4,2017,Norway
+5.3,2018,Norway
+4.9,2019,Norway
+4.1,2020,Norway
+4.6,2021,Norway
+140.2,2011,Oman
+138.9,2012,Oman
+139.1,2013,Oman
+141.3,2014,Oman
+147.8,2015,Oman
+150.8,2016,Oman
+144.6,2017,Oman
+128.6,2018,Oman
+122,2019,Oman
+117.4,2020,Oman
+110.7,2021,Oman
+237.2,2011,Pakistan
+238.2,2012,Pakistan
+240.3,2013,Pakistan
+240.9,2014,Pakistan
+239.4,2015,Pakistan
+237.7,2016,Pakistan
+232.1,2017,Pakistan
+224.3,2018,Pakistan
+217.5,2019,Pakistan
+206.3,2020,Pakistan
+212.4,2021,Pakistan
+21.3,2011,Palau
+28.4,2012,Palau
+37.1,2013,Palau
+43.6,2014,Palau
+45.8,2015,Palau
+44.4,2016,Palau
+41.4,2017,Palau
+37.2,2018,Palau
+33.5,2019,Palau
+29.6,2020,Palau
+33.2,2021,Palau
+150.3,2011,Palestine
+139.3,2012,Palestine
+129.4,2013,Palestine
+123.3,2014,Palestine
+121.2,2015,Palestine
+115.3,2016,Palestine
+111.5,2017,Palestine
+107.4,2018,Palestine
+105.1,2019,Palestine
+94.2,2020,Palestine
+104.6,2021,Palestine
+30.7,2011,Panama
+30,2012,Panama
+29.7,2013,Panama
+28.5,2014,Panama
+26.5,2015,Panama
+24.9,2016,Panama
+23.1,2017,Panama
+21,2018,Panama
+19.3,2019,Panama
+17.8,2020,Panama
+18.2,2021,Panama
+334.1,2011,Papua New Guinea
+330.4,2012,Papua New Guinea
+325.1,2013,Papua New Guinea
+321.2,2014,Papua New Guinea
+319.1,2015,Papua New Guinea
+315.9,2016,Papua New Guinea
+313.5,2017,Papua New Guinea
+311,2018,Papua New Guinea
+311.3,2019,Papua New Guinea
+307.1,2020,Papua New Guinea
+302.7,2021,Papua New Guinea
+69.6,2011,Paraguay
+64.9,2012,Paraguay
+61.9,2013,Paraguay
+56.6,2014,Paraguay
+54.3,2015,Paraguay
+54.2,2016,Paraguay
+50.1,2017,Paraguay
+49.1,2018,Paraguay
+47.9,2019,Paraguay
+42.1,2020,Paraguay
+42.8,2021,Paraguay
+58.5,2011,Peru
+55.9,2012,Peru
+53.1,2013,Peru
+49.6,2014,Peru
+47.2,2015,Peru
+47.3,2016,Peru
+50,2017,Peru
+50.8,2018,Peru
+52.3,2019,Peru
+43.2,2020,Peru
+45.3,2021,Peru
+170.8,2011,Philippines
+166.7,2012,Philippines
+161.4,2013,Philippines
+155.5,2014,Philippines
+153.4,2015,Philippines
+151.6,2016,Philippines
+146.7,2017,Philippines
+144.6,2018,Philippines
+143.7,2019,Philippines
+132,2020,Philippines
+136.9,2021,Philippines
+72.7,2011,Poland
+69.9,2012,Poland
+65.6,2013,Poland
+60,2014,Poland
+57.8,2015,Poland
+53.6,2016,Poland
+51.4,2017,Poland
+49.5,2018,Poland
+46,2019,Poland
+43.2,2020,Poland
+44.5,2021,Poland
+17.6,2011,Portugal
+16.9,2012,Portugal
+15.9,2013,Portugal
+14.8,2014,Portugal
+13.8,2015,Portugal
+12.5,2016,Portugal
+11,2017,Portugal
+9.9,2018,Portugal
+9.3,2019,Portugal
+9.8,2020,Portugal
+8.6,2021,Portugal
+7.4,2011,Puerto Rico
+7,2012,Puerto Rico
+7.1,2013,Puerto Rico
+7,2014,Puerto Rico
+6.6,2015,Puerto Rico
+6.7,2016,Puerto Rico
+6.7,2017,Puerto Rico
+6.2,2018,Puerto Rico
+6.2,2019,Puerto Rico
+7.2,2020,Puerto Rico
+6.1,2021,Puerto Rico
+175.8,2011,Qatar
+156.8,2012,Qatar
+139.5,2013,Qatar
+127.4,2014,Qatar
+114.4,2015,Qatar
+109,2016,Qatar
+105.6,2017,Qatar
+103.4,2018,Qatar
+99.8,2019,Qatar
+109.5,2020,Qatar
+109.9,2021,Qatar
+79.9,2011,Romania
+76.7,2012,Romania
+70.3,2013,Romania
+68.8,2014,Romania
+64.9,2015,Romania
+60.6,2016,Romania
+56.4,2017,Romania
+53,2018,Romania
+49.8,2019,Romania
+47.7,2020,Romania
+48.6,2021,Romania
+73.8,2011,Russia
+67.8,2012,Russia
+62,2013,Russia
+58,2014,Russia
+53.9,2015,Russia
+50.6,2016,Russia
+45.4,2017,Russia
+43.2,2018,Russia
+40.5,2019,Russia
+37.7,2020,Russia
+39.3,2021,Russia
+189.2,2011,Rwanda
+186.8,2012,Rwanda
+183.4,2013,Rwanda
+182,2014,Rwanda
+181.1,2015,Rwanda
+179.4,2016,Rwanda
+178.9,2017,Rwanda
+179.1,2018,Rwanda
+179.4,2019,Rwanda
+176.1,2020,Rwanda
+177,2021,Rwanda
+20.3,2011,Saint Kitts and Nevis
+20.3,2012,Saint Kitts and Nevis
+20.4,2013,Saint Kitts and Nevis
+20.3,2014,Saint Kitts and Nevis
+20.3,2015,Saint Kitts and Nevis
+19.7,2016,Saint Kitts and Nevis
+18.9,2017,Saint Kitts and Nevis
+18.3,2018,Saint Kitts and Nevis
+18.2,2019,Saint Kitts and Nevis
+21,2020,Saint Kitts and Nevis
+17.5,2021,Saint Kitts and Nevis
+47,2011,Saint Lucia
+47,2012,Saint Lucia
+49.6,2013,Saint Lucia
+49.2,2014,Saint Lucia
+49.1,2015,Saint Lucia
+50.2,2016,Saint Lucia
+49.9,2017,Saint Lucia
+49.4,2018,Saint Lucia
+49,2019,Saint Lucia
+50.7,2020,Saint Lucia
+50.8,2021,Saint Lucia
+74.2,2011,Saint Vincent and the Grenadines
+76.3,2012,Saint Vincent and the Grenadines
+75,2013,Saint Vincent and the Grenadines
+73.3,2014,Saint Vincent and the Grenadines
+69.6,2015,Saint Vincent and the Grenadines
+66.1,2016,Saint Vincent and the Grenadines
+63.4,2017,Saint Vincent and the Grenadines
+64.6,2018,Saint Vincent and the Grenadines
+66.7,2019,Saint Vincent and the Grenadines
+66.5,2020,Saint Vincent and the Grenadines
+63,2021,Saint Vincent and the Grenadines
+220.2,2011,Samoa
+220.7,2012,Samoa
+220.7,2013,Samoa
+220,2014,Samoa
+218.9,2015,Samoa
+216.8,2016,Samoa
+211.7,2017,Samoa
+206.2,2018,Samoa
+200.3,2019,Samoa
+194.1,2020,Samoa
+197.2,2021,Samoa
+10.1,2011,San Marino
+10.5,2012,San Marino
+10.9,2013,San Marino
+11.3,2014,San Marino
+11.4,2015,San Marino
+11.4,2016,San Marino
+11.2,2017,San Marino
+11,2018,San Marino
+10.8,2019,San Marino
+7.2,2020,San Marino
+6.7,2021,San Marino
+200.5,2011,Sao Tome and Principe
+197,2012,Sao Tome and Principe
+193.7,2013,Sao Tome and Principe
+191.8,2014,Sao Tome and Principe
+188.3,2015,Sao Tome and Principe
+181.1,2016,Sao Tome and Principe
+170.6,2017,Sao Tome and Principe
+166,2018,Sao Tome and Principe
+162.1,2019,Sao Tome and Principe
+163.5,2020,Sao Tome and Principe
+153.8,2021,Sao Tome and Principe
+167.9,2011,Saudi Arabia
+164.8,2012,Saudi Arabia
+162.6,2013,Saudi Arabia
+159.4,2014,Saudi Arabia
+158.7,2015,Saudi Arabia
+156,2016,Saudi Arabia
+153,2017,Saudi Arabia
+147.9,2018,Saudi Arabia
+142.7,2019,Saudi Arabia
+134.3,2020,Saudi Arabia
+137.7,2021,Saudi Arabia
+211.8,2011,Senegal
+211,2012,Senegal
+211.1,2013,Senegal
+213.6,2014,Senegal
+211.4,2015,Senegal
+209.3,2016,Senegal
+206.4,2017,Senegal
+202.5,2018,Senegal
+203.3,2019,Senegal
+198.8,2020,Senegal
+197.1,2021,Senegal
+141.6,2011,Serbia
+135.3,2012,Serbia
+126.9,2013,Serbia
+123.2,2014,Serbia
+120.6,2015,Serbia
+111.6,2016,Serbia
+105.6,2017,Serbia
+96.9,2018,Serbia
+93.7,2019,Serbia
+94.4,2020,Serbia
+92,2021,Serbia
+22.5,2011,Seychelles
+23,2012,Seychelles
+22.9,2013,Seychelles
+22.6,2014,Seychelles
+22.7,2015,Seychelles
+23.2,2016,Seychelles
+24,2017,Seychelles
+25,2018,Seychelles
+25,2019,Seychelles
+17.7,2020,Seychelles
+21.3,2021,Seychelles
+270.2,2011,Sierra Leone
+266.3,2012,Sierra Leone
+260.1,2013,Sierra Leone
+255.1,2014,Sierra Leone
+254.2,2015,Sierra Leone
+248.8,2016,Sierra Leone
+244.8,2017,Sierra Leone
+240.9,2018,Sierra Leone
+237.8,2019,Sierra Leone
+231.2,2020,Sierra Leone
+227,2021,Sierra Leone
+24.6,2011,Singapore
+25.2,2012,Singapore
+26,2013,Singapore
+26.5,2014,Singapore
+25.8,2015,Singapore
+24.3,2016,Singapore
+23.8,2017,Singapore
+23.4,2018,Singapore
+22,2019,Singapore
+16.3,2020,Singapore
+19.3,2021,Singapore
+75.1,2011,Slovakia
+71.3,2012,Slovakia
+67.7,2013,Slovakia
+64.3,2014,Slovakia
+63.5,2015,Slovakia
+58.5,2016,Slovakia
+55.6,2017,Slovakia
+51.8,2018,Slovakia
+47.1,2019,Slovakia
+45.6,2020,Slovakia
+45.7,2021,Slovakia
+30.8,2011,Slovenia
+30.4,2012,Slovenia
+28.9,2013,Slovenia
+26.5,2014,Slovenia
+26.7,2015,Slovenia
+24.7,2016,Slovenia
+22.4,2017,Slovenia
+20,2018,Slovenia
+19,2019,Slovenia
+19.3,2020,Slovenia
+17.5,2021,Slovenia
+379.7,2011,Solomon Islands
+380,2012,Solomon Islands
+379.5,2013,Solomon Islands
+380.2,2014,Solomon Islands
+378.1,2015,Solomon Islands
+371.7,2016,Solomon Islands
+370,2017,Solomon Islands
+367,2018,Solomon Islands
+366.8,2019,Solomon Islands
+364.9,2020,Solomon Islands
+360.9,2021,Solomon Islands
+267.1,2011,Somalia
+262.9,2012,Somalia
+258.5,2013,Somalia
+255,2014,Somalia
+252.2,2015,Somalia
+249.8,2016,Somalia
+247.7,2017,Somalia
+246.2,2018,Somalia
+244.5,2019,Somalia
+234.2,2020,Somalia
+227.6,2021,Somalia
+117.8,2011,South Africa
+113.2,2012,South Africa
+109,2013,South Africa
+106.6,2014,South Africa
+105,2015,South Africa
+101.9,2016,South Africa
+96.4,2017,South Africa
+92.3,2018,South Africa
+87.2,2019,South Africa
+86.8,2020,South Africa
+83.5,2021,South Africa
+34.4,2011,South Korea
+34.7,2012,South Korea
+34.6,2013,South Korea
+34.4,2014,South Korea
+34.3,2015,South Korea
+33.6,2016,South Korea
+32.4,2017,South Korea
+31.8,2018,South Korea
+30.5,2019,South Korea
+29.3,2020,South Korea
+29.8,2021,South Korea
+191.6,2011,South Sudan
+195.7,2012,South Sudan
+199.7,2013,South Sudan
+203.5,2014,South Sudan
+208.9,2015,South Sudan
+213.8,2016,South Sudan
+218.5,2017,South Sudan
+222.8,2018,South Sudan
+223.5,2019,South Sudan
+219,2020,South Sudan
+218.2,2021,South Sudan
+17.6,2011,Spain
+17.1,2012,Spain
+15.9,2013,Spain
+15.4,2014,Spain
+15.2,2015,Spain
+13.8,2016,Spain
+12.7,2017,Spain
+11.9,2018,Spain
+11.2,2019,Spain
+11.2,2020,Spain
+10.4,2021,Spain
+153.6,2011,Sri Lanka
+142.3,2012,Sri Lanka
+135.6,2013,Sri Lanka
+125.7,2014,Sri Lanka
+118.5,2015,Sri Lanka
+109.5,2016,Sri Lanka
+104.4,2017,Sri Lanka
+99.1,2018,Sri Lanka
+92.5,2019,Sri Lanka
+80.1,2020,Sri Lanka
+86.4,2021,Sri Lanka
+229.3,2011,Sudan
+225.5,2012,Sudan
+221.3,2013,Sudan
+216.4,2014,Sudan
+212.4,2015,Sudan
+207.6,2016,Sudan
+202.9,2017,Sudan
+198.1,2018,Sudan
+192.8,2019,Sudan
+184.1,2020,Sudan
+190.6,2021,Sudan
+70.9,2011,Suriname
+70.7,2012,Suriname
+74.3,2013,Suriname
+75.7,2014,Suriname
+76.8,2015,Suriname
+76.1,2016,Suriname
+76.9,2017,Suriname
+79.4,2018,Suriname
+80.5,2019,Suriname
+72.5,2020,Suriname
+69.8,2021,Suriname
+9.2,2011,Sweden
+8.3,2012,Sweden
+7.1,2013,Sweden
+6.1,2014,Sweden
+5.4,2015,Sweden
+5.1,2016,Sweden
+4.8,2017,Sweden
+4.7,2018,Sweden
+4.2,2019,Sweden
+3.4,2020,Sweden
+3.8,2021,Sweden
+16.3,2011,Switzerland
+15.7,2012,Switzerland
+15,2013,Switzerland
+14,2014,Switzerland
+13.2,2015,Switzerland
+11.9,2016,Switzerland
+10.8,2017,Switzerland
+9.9,2018,Switzerland
+8.8,2019,Switzerland
+8.1,2020,Switzerland
+8.2,2021,Switzerland
+147.1,2011,Syria
+143,2012,Syria
+140.7,2013,Syria
+139.3,2014,Syria
+136.6,2015,Syria
+136.2,2016,Syria
+136.1,2017,Syria
+135.3,2018,Syria
+133.8,2019,Syria
+125.1,2020,Syria
+130.6,2021,Syria
+38.4,2011,Taiwan
+38.4,2012,Taiwan
+38.2,2013,Taiwan
+39.2,2014,Taiwan
+38.2,2015,Taiwan
+38.1,2016,Taiwan
+34,2017,Taiwan
+30.5,2018,Taiwan
+27.4,2019,Taiwan
+23.6,2020,Taiwan
+25.1,2021,Taiwan
+252.5,2011,Tajikistan
+240.2,2012,Tajikistan
+221.2,2013,Tajikistan
+217,2014,Tajikistan
+211.4,2015,Tajikistan
+205,2016,Tajikistan
+197,2017,Tajikistan
+189.5,2018,Tajikistan
+182.9,2019,Tajikistan
+174.9,2020,Tajikistan
+175.8,2021,Tajikistan
+185.2,2011,Tanzania
+182.6,2012,Tanzania
+180.5,2013,Tanzania
+178.5,2014,Tanzania
+178.1,2015,Tanzania
+176.7,2016,Tanzania
+174.4,2017,Tanzania
+172.3,2018,Tanzania
+170.9,2019,Tanzania
+166.8,2020,Tanzania
+165.8,2021,Tanzania
+69.6,2011,Thailand
+64,2012,Thailand
+59.3,2013,Thailand
+56,2014,Thailand
+54.3,2015,Thailand
+54.1,2016,Thailand
+52.9,2017,Thailand
+54.2,2018,Thailand
+55.8,2019,Thailand
+55.5,2020,Thailand
+55.3,2021,Thailand
+259.3,2011,Togo
+254.6,2012,Togo
+249.7,2013,Togo
+245.9,2014,Togo
+246.5,2015,Togo
+242.6,2016,Togo
+239.1,2017,Togo
+234.5,2018,Togo
+231.4,2019,Togo
+226.5,2020,Togo
+226.4,2021,Togo
+17.6,2011,Tokelau
+17.2,2012,Tokelau
+17.1,2013,Tokelau
+16.8,2014,Tokelau
+16.6,2015,Tokelau
+16.8,2016,Tokelau
+17.6,2017,Tokelau
+19.1,2018,Tokelau
+19.6,2019,Tokelau
+21.1,2020,Tokelau
+21.4,2021,Tokelau
+136.5,2011,Tonga
+134.6,2012,Tonga
+132.3,2013,Tonga
+129.3,2014,Tonga
+126.7,2015,Tonga
+123.4,2016,Tonga
+119.6,2017,Tonga
+116.2,2018,Tonga
+112.5,2019,Tonga
+108.2,2020,Tonga
+111.2,2021,Tonga
+63.1,2011,Trinidad and Tobago
+61.5,2012,Trinidad and Tobago
+65.4,2013,Trinidad and Tobago
+66.8,2014,Trinidad and Tobago
+67.3,2015,Trinidad and Tobago
+69.8,2016,Trinidad and Tobago
+67,2017,Trinidad and Tobago
+64.6,2018,Trinidad and Tobago
+63.7,2019,Trinidad and Tobago
+65.2,2020,Trinidad and Tobago
+63.3,2021,Trinidad and Tobago
+86.1,2011,Tunisia
+82.8,2012,Tunisia
+79.1,2013,Tunisia
+76.2,2014,Tunisia
+74.4,2015,Tunisia
+73.6,2016,Tunisia
+72.7,2017,Tunisia
+71.6,2018,Tunisia
+70.3,2019,Tunisia
+70,2020,Tunisia
+68.4,2021,Tunisia
+78.6,2011,Turkey
+78.2,2012,Turkey
+79.1,2013,Turkey
+80.3,2014,Turkey
+81.8,2015,Turkey
+81.8,2016,Turkey
+79.1,2017,Turkey
+75.1,2018,Turkey
+74.7,2019,Turkey
+69.3,2020,Turkey
+71.9,2021,Turkey
+113.1,2011,Turkmenistan
+115.1,2012,Turkmenistan
+119,2013,Turkmenistan
+122.7,2014,Turkmenistan
+124.6,2015,Turkmenistan
+121.4,2016,Turkmenistan
+118.9,2017,Turkmenistan
+112.8,2018,Turkmenistan
+108.7,2019,Turkmenistan
+104.7,2020,Turkmenistan
+105.4,2021,Turkmenistan
+96.5,2011,Tuvalu
+91.2,2012,Tuvalu
+86.2,2013,Tuvalu
+81.8,2014,Tuvalu
+78,2015,Tuvalu
+74.8,2016,Tuvalu
+71.5,2017,Tuvalu
+68.7,2018,Tuvalu
+65.6,2019,Tuvalu
+61.8,2020,Tuvalu
+64.2,2021,Tuvalu
+184.3,2011,Uganda
+180.5,2012,Uganda
+178.9,2013,Uganda
+176.6,2014,Uganda
+175.2,2015,Uganda
+174.7,2016,Uganda
+169,2017,Uganda
+166.6,2018,Uganda
+165,2019,Uganda
+161.7,2020,Uganda
+160.7,2021,Uganda
+118.2,2011,Ukraine
+113.5,2012,Ukraine
+109.7,2013,Ukraine
+104.1,2014,Ukraine
+98.1,2015,Ukraine
+93,2016,Ukraine
+89.2,2017,Ukraine
+86.9,2018,Ukraine
+83.7,2019,Ukraine
+74.4,2020,Ukraine
+78.6,2021,Ukraine
+185.1,2011,United Arab Emirates
+178.4,2012,United Arab Emirates
+192,2013,United Arab Emirates
+207.5,2014,United Arab Emirates
+214.2,2015,United Arab Emirates
+222,2016,United Arab Emirates
+207.1,2017,United Arab Emirates
+191.6,2018,United Arab Emirates
+174.3,2019,United Arab Emirates
+115.2,2020,United Arab Emirates
+116.8,2021,United Arab Emirates
+19.2,2011,United Kingdom
+18.1,2012,United Kingdom
+17,2013,United Kingdom
+15.7,2014,United Kingdom
+15.2,2015,United Kingdom
+14.5,2016,United Kingdom
+13.8,2017,United Kingdom
+13.5,2018,United Kingdom
+12.9,2019,United Kingdom
+11.9,2020,United Kingdom
+11.7,2021,United Kingdom
+17.9,2011,United States
+16.8,2012,United States
+15.9,2013,United States
+14.9,2014,United States
+14.2,2015,United States
+13.3,2016,United States
+12.2,2017,United States
+11.2,2018,United States
+10.6,2019,United States
+11.7,2020,United States
+10.3,2021,United States
+13.4,2011,United States Virgin Islands
+13.7,2012,United States Virgin Islands
+13.8,2013,United States Virgin Islands
+13.9,2014,United States Virgin Islands
+13.8,2015,United States Virgin Islands
+13.5,2016,United States Virgin Islands
+13.3,2017,United States Virgin Islands
+13.2,2018,United States Virgin Islands
+13.2,2019,United States Virgin Islands
+13,2020,United States Virgin Islands
+10.9,2021,United States Virgin Islands
+21.6,2011,Uruguay
+21.3,2012,Uruguay
+20.6,2013,Uruguay
+20,2014,Uruguay
+20.1,2015,Uruguay
+20.1,2016,Uruguay
+18.9,2017,Uruguay
+18.9,2018,Uruguay
+18.9,2019,Uruguay
+17.8,2020,Uruguay
+18,2021,Uruguay
+211.8,2011,Uzbekistan
+213.5,2012,Uzbekistan
+211.4,2013,Uzbekistan
+209.5,2014,Uzbekistan
+207.3,2015,Uzbekistan
+199.7,2016,Uzbekistan
+189.8,2017,Uzbekistan
+175.2,2018,Uzbekistan
+159.8,2019,Uzbekistan
+151,2020,Uzbekistan
+153.5,2021,Uzbekistan
+350.5,2011,Vanuatu
+345.8,2012,Vanuatu
+341.6,2013,Vanuatu
+338,2014,Vanuatu
+336,2015,Vanuatu
+334.1,2016,Vanuatu
+331.9,2017,Vanuatu
+329.9,2018,Vanuatu
+327.5,2019,Vanuatu
+324.7,2020,Vanuatu
+321.4,2021,Vanuatu
+48.9,2011,Venezuela
+48.8,2012,Venezuela
+48.6,2013,Venezuela
+49.9,2014,Venezuela
+49.4,2015,Venezuela
+51.6,2016,Venezuela
+46.3,2017,Venezuela
+42.6,2018,Venezuela
+41.8,2019,Venezuela
+43.3,2020,Venezuela
+42.9,2021,Venezuela
+164.9,2011,Vietnam
+157.6,2012,Vietnam
+150.6,2013,Vietnam
+143.9,2014,Vietnam
+139.1,2015,Vietnam
+134.5,2016,Vietnam
+130.1,2017,Vietnam
+126.5,2018,Vietnam
+122.8,2019,Vietnam
+118.7,2020,Vietnam
+118.7,2021,Vietnam
+207.6,2011,Yemen
+206.2,2012,Yemen
+205.2,2013,Yemen
+202.5,2014,Yemen
+203.7,2015,Yemen
+201,2016,Yemen
+197.6,2017,Yemen
+194.7,2018,Yemen
+194,2019,Yemen
+181,2020,Yemen
+195.2,2021,Yemen
+230.3,2011,Zambia
+226.1,2012,Zambia
+221.2,2013,Zambia
+216.6,2014,Zambia
+214.4,2015,Zambia
+211,2016,Zambia
+207.2,2017,Zambia
+203.6,2018,Zambia
+200.7,2019,Zambia
+196.5,2020,Zambia
+189.6,2021,Zambia
+267.7,2011,Zimbabwe
+262,2012,Zimbabwe
+256.9,2013,Zimbabwe
+253.9,2014,Zimbabwe
+252.3,2015,Zimbabwe
+249.9,2016,Zimbabwe
+245.3,2017,Zimbabwe
+242.2,2018,Zimbabwe
+239,2019,Zimbabwe
+225.1,2020,Zimbabwe
+212.8,2021,Zimbabwe
+,2011,Other
+,2012,Other
+,2013,Other
+,2014,Other
+,2015,Other
+,2016,Other
+,2017,Other
+,2018,Other
+,2019,Other
+,2020,Other
+,2021,Other
+192.2,2011,African Region (WHO)
+190.1,2012,African Region (WHO)
+187.9,2013,African Region (WHO)
+185.8,2014,African Region (WHO)
+185,2015,African Region (WHO)
+181.6,2016,African Region (WHO)
+177.4,2017,African Region (WHO)
+173.9,2018,African Region (WHO)
+170.8,2019,African Region (WHO)
+166.9,2020,African Region (WHO)
+164.3,2021,African Region (WHO)
+34.7,2011,Americas (WHO)
+33.3,2012,Americas (WHO)
+32.4,2013,Americas (WHO)
+31.3,2014,Americas (WHO)
+30.4,2015,Americas (WHO)
+29.8,2016,Americas (WHO)
+28.2,2017,Americas (WHO)
+27,2018,Americas (WHO)
+26.2,2019,Americas (WHO)
+25.8,2020,Americas (WHO)
+24.8,2021,Americas (WHO)
+153.3,2011,East Asia & Pacific (WB)
+145.6,2012,East Asia & Pacific (WB)
+140.1,2013,East Asia & Pacific (WB)
+134.2,2014,East Asia & Pacific (WB)
+128.7,2015,East Asia & Pacific (WB)
+124,2016,East Asia & Pacific (WB)
+117.5,2017,East Asia & Pacific (WB)
+110.5,2018,East Asia & Pacific (WB)
+105.1,2019,East Asia & Pacific (WB)
+99.1,2020,East Asia & Pacific (WB)
+103.2,2021,East Asia & Pacific (WB)
+190.4,2011,Eastern Mediterranean (WHO)
+188.5,2012,Eastern Mediterranean (WHO)
+186.5,2013,Eastern Mediterranean (WHO)
+185.1,2014,Eastern Mediterranean (WHO)
+183.9,2015,Eastern Mediterranean (WHO)
+179.8,2016,Eastern Mediterranean (WHO)
+174.4,2017,Eastern Mediterranean (WHO)
+169.7,2018,Eastern Mediterranean (WHO)
+165.9,2019,Eastern Mediterranean (WHO)
+157,2020,Eastern Mediterranean (WHO)
+161.2,2021,Eastern Mediterranean (WHO)
+52.4,2011,Europe & Central Asia (WB)
+50,2012,Europe & Central Asia (WB)
+47.3,2013,Europe & Central Asia (WB)
+45,2014,Europe & Central Asia (WB)
+43.2,2015,Europe & Central Asia (WB)
+41,2016,Europe & Central Asia (WB)
+38.5,2017,Europe & Central Asia (WB)
+36.6,2018,Europe & Central Asia (WB)
+34.6,2019,Europe & Central Asia (WB)
+32.5,2020,Europe & Central Asia (WB)
+32.9,2021,Europe & Central Asia (WB)
+52.4,2011,European Region (WHO)
+50,2012,European Region (WHO)
+47.4,2013,European Region (WHO)
+45,2014,European Region (WHO)
+43.3,2015,European Region (WHO)
+41,2016,European Region (WHO)
+38.6,2017,European Region (WHO)
+36.6,2018,European Region (WHO)
+34.7,2019,European Region (WHO)
+32.5,2020,European Region (WHO)
+33,2021,European Region (WHO)
+24.9,2011,High-income countries
+24,2012,High-income countries
+22.9,2013,High-income countries
+21.8,2014,High-income countries
+21.2,2015,High-income countries
+20,2016,High-income countries
+18.9,2017,High-income countries
+17.9,2018,High-income countries
+17,2019,High-income countries
+16.5,2020,High-income countries
+16.3,2021,High-income countries
+51.6,2011,Latin America & Caribbean (WB)
+49.9,2012,Latin America & Caribbean (WB)
+48.8,2013,Latin America & Caribbean (WB)
+47.4,2014,Latin America & Caribbean (WB)
+46.4,2015,Latin America & Caribbean (WB)
+45.9,2016,Latin America & Caribbean (WB)
+43.6,2017,Latin America & Caribbean (WB)
+42.1,2018,Latin America & Caribbean (WB)
+41.1,2019,Latin America & Caribbean (WB)
+39.2,2020,Latin America & Caribbean (WB)
+38.4,2021,Latin America & Caribbean (WB)
+218,2011,Low-income countries
+214.9,2012,Low-income countries
+211.8,2013,Low-income countries
+208.7,2014,Low-income countries
+206.6,2015,Low-income countries
+203.2,2016,Low-income countries
+199.7,2017,Low-income countries
+196.7,2018,Low-income countries
+193.9,2019,Low-income countries
+188.2,2020,Low-income countries
+188.2,2021,Low-income countries
+212.6,2011,Lower-middle-income countries
+211,2012,Lower-middle-income countries
+214.9,2013,Lower-middle-income countries
+217.5,2014,Lower-middle-income countries
+211.6,2015,Lower-middle-income countries
+205.4,2016,Lower-middle-income countries
+200.1,2017,Lower-middle-income countries
+195.3,2018,Lower-middle-income countries
+189.9,2019,Lower-middle-income countries
+178.6,2020,Lower-middle-income countries
+182.3,2021,Lower-middle-income countries
+142,2011,Middle East & North Africa (WB)
+139.7,2012,Middle East & North Africa (WB)
+137,2013,Middle East & North Africa (WB)
+135.4,2014,Middle East & North Africa (WB)
+134.7,2015,Middle East & North Africa (WB)
+130.2,2016,Middle East & North Africa (WB)
+125.5,2017,Middle East & North Africa (WB)
+122.7,2018,Middle East & North Africa (WB)
+120.8,2019,Middle East & North Africa (WB)
+114.5,2020,Middle East & North Africa (WB)
+117.1,2021,Middle East & North Africa (WB)
+17,2011,North America (WB)
+16,2012,North America (WB)
+15.1,2013,North America (WB)
+14.2,2014,North America (WB)
+13.5,2015,North America (WB)
+12.6,2016,North America (WB)
+11.6,2017,North America (WB)
+10.6,2018,North America (WB)
+10,2019,North America (WB)
+11.1,2020,North America (WB)
+9.7,2021,North America (WB)
+224.2,2011,South Asia (WB)
+224.5,2012,South Asia (WB)
+234.4,2013,South Asia (WB)
+242.4,2014,South Asia (WB)
+234.7,2015,South Asia (WB)
+227.4,2016,South Asia (WB)
+222.1,2017,South Asia (WB)
+216.5,2018,South Asia (WB)
+210.1,2019,South Asia (WB)
+196.4,2020,South Asia (WB)
+200.9,2021,South Asia (WB)
+211.1,2011,South-East Asia (WHO)
+209.5,2012,South-East Asia (WHO)
+215.6,2013,South-East Asia (WHO)
+220.1,2014,South-East Asia (WHO)
+212.2,2015,South-East Asia (WHO)
+205,2016,South-East Asia (WHO)
+199.7,2017,South-East Asia (WHO)
+195.1,2018,South-East Asia (WHO)
+189.5,2019,South-East Asia (WHO)
+177.3,2020,South-East Asia (WHO)
+181.2,2021,South-East Asia (WHO)
+201.2,2011,Sub-Saharan Africa (WB)
+198.9,2012,Sub-Saharan Africa (WB)
+196.5,2013,Sub-Saharan Africa (WB)
+194,2014,Sub-Saharan Africa (WB)
+193.1,2015,Sub-Saharan Africa (WB)
+189.6,2016,Sub-Saharan Africa (WB)
+185.2,2017,Sub-Saharan Africa (WB)
+181.5,2018,Sub-Saharan Africa (WB)
+178.2,2019,Sub-Saharan Africa (WB)
+173.6,2020,Sub-Saharan Africa (WB)
+171.6,2021,Sub-Saharan Africa (WB)
+140.2,2011,Upper-middle-income countries
+132.7,2012,Upper-middle-income countries
+127.7,2013,Upper-middle-income countries
+122.4,2014,Upper-middle-income countries
+117.4,2015,Upper-middle-income countries
+113.3,2016,Upper-middle-income countries
+106.7,2017,Upper-middle-income countries
+99.8,2018,Upper-middle-income countries
+94.4,2019,Upper-middle-income countries
+89.3,2020,Upper-middle-income countries
+93,2021,Upper-middle-income countries
+151.3,2011,Western Pacific (WHO)
+143.6,2012,Western Pacific (WHO)
+138.4,2013,Western Pacific (WHO)
+132.7,2014,Western Pacific (WHO)
+127.2,2015,Western Pacific (WHO)
+122.5,2016,Western Pacific (WHO)
+115.7,2017,Western Pacific (WHO)
+108.2,2018,Western Pacific (WHO)
+102.4,2019,Western Pacific (WHO)
+96.4,2020,Western Pacific (WHO)
+100.7,2021,Western Pacific (WHO)
+128.4,2011,World
+125,2012,World
+123.2,2013,World
+120.9,2014,World
+117.5,2015,World
+114.3,2016,World
+110.2,2017,World
+106.3,2018,World
+102.7,2019,World
+97.3,2020,World
+99.7,2021,World

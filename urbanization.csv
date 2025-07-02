@@ -1,0 +1,538 @@
+﻿country_name,Country Code,Series Name,Series Code,Urban Pop. Rate
+World,WLD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.82724997
+World,WLD,Urban population growth (annual %),SP.URB.GROW,2.066192676
+Sub-Saharan Africa,SSF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.63131919
+Sub-Saharan Africa,SSF,Urban population growth (annual %),SP.URB.GROW,4.233538928
+Middle East & North Africa,MEA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.05737008
+Middle East & North Africa,MEA,Urban population growth (annual %),SP.URB.GROW,2.695858125
+East Asia & Pacific,EAS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.43863813
+East Asia & Pacific,EAS,Urban population growth (annual %),SP.URB.GROW,2.32123121
+Arab World,ARB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.84615313
+Arab World,ARB,Urban population growth (annual %),SP.URB.GROW,2.75797536
+Europe & Central Asia,ECS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.63713899
+Europe & Central Asia,ECS,Urban population growth (annual %),SP.URB.GROW,0.715610417
+North America,NAC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.63309202
+North America,NAC,Urban population growth (annual %),SP.URB.GROW,0.955473687
+Latin America & Caribbean,LCN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.91008068
+Latin America & Caribbean,LCN,Urban population growth (annual %),SP.URB.GROW,1.361870193
+Afghanistan,AFG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.803
+Afghanistan,AFG,Urban population growth (annual %),SP.URB.GROW,3.996007967
+Albania,ALB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.434
+Albania,ALB,Urban population growth (annual %),SP.URB.GROW,1.484764333
+Algeria,DZA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.848
+Algeria,DZA,Urban population growth (annual %),SP.URB.GROW,2.888877932
+American Samoa,ASM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.238
+American Samoa,ASM,Urban population growth (annual %),SP.URB.GROW,-1.697112343
+Andorra,AND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.345
+Andorra,AND,Urban population growth (annual %),SP.URB.GROW,0.066284743
+Angola,AGO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.446
+Angola,AGO,Urban population growth (annual %),SP.URB.GROW,4.75101947
+Antigua and Barbuda,ATG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25
+Antigua and Barbuda,ATG,Urban population growth (annual %),SP.URB.GROW,0.08898777
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.503
+Argentina,ARG,Urban population growth (annual %),SP.URB.GROW,1.215797063
+Armenia,ARM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.085
+Armenia,ARM,Urban population growth (annual %),SP.URB.GROW,-0.43578728
+Aruba,ABW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.108
+Aruba,ABW,Urban population growth (annual %),SP.URB.GROW,0.793025568
+Australia,AUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.701
+Australia,AUS,Urban population growth (annual %),SP.URB.GROW,1.554800599
+Austria,AUT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.715
+Austria,AUT,Urban population growth (annual %),SP.URB.GROW,1.44900148
+Azerbaijan,AZE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.714
+Azerbaijan,AZE,Urban population growth (annual %),SP.URB.GROW,1.726309145
+"Bahamas, The",BHS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.746
+"Bahamas, The",BHS,Urban population growth (annual %),SP.URB.GROW,1.006460428
+Bahrain,BHR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.999
+Bahrain,BHR,Urban population growth (annual %),SP.URB.GROW,3.911034989
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.308
+Bangladesh,BGD,Urban population growth (annual %),SP.URB.GROW,3.469949019
+Barbados,BRB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.249
+Barbados,BRB,Urban population growth (annual %),SP.URB.GROW,-0.040268997
+Belarus,BLR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.181
+Belarus,BLR,Urban population growth (annual %),SP.URB.GROW,0.767134236
+Belgium,BEL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,97.876
+Belgium,BEL,Urban population growth (annual %),SP.URB.GROW,0.623385919
+Belize,BLZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.406
+Belize,BLZ,Urban population growth (annual %),SP.URB.GROW,2.272839176
+Benin,BEN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.695
+Benin,BEN,Urban population growth (annual %),SP.URB.GROW,4.115683615
+Bermuda,BMU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Bermuda,BMU,Urban population growth (annual %),SP.URB.GROW,0.151869636
+Bhutan,BTN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.678
+Bhutan,BTN,Urban population growth (annual %),SP.URB.GROW,2.919585661
+Bolivia,BOL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.393
+Bolivia,BOL,Urban population growth (annual %),SP.URB.GROW,2.080332797
+Bosnia and Herzegovina,BIH,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.173
+Bosnia and Herzegovina,BIH,Urban population growth (annual %),SP.URB.GROW,-0.609197628
+Botswana,BWA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.155
+Botswana,BWA,Urban population growth (annual %),SP.URB.GROW,3.141255402
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.77
+Brazil,BRA,Urban population growth (annual %),SP.URB.GROW,1.170641414
+British Virgin Islands,VGB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.583
+British Virgin Islands,VGB,Urban population growth (annual %),SP.URB.GROW,2.150143788
+Brunei Darussalam,BRN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.663
+Brunei Darussalam,BRN,Urban population growth (annual %),SP.URB.GROW,1.573509212
+Bulgaria,BGR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.99
+Bulgaria,BGR,Urban population growth (annual %),SP.URB.GROW,-0.178845947
+Burkina Faso,BFA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.53
+Burkina Faso,BFA,Urban population growth (annual %),SP.URB.GROW,5.161046779
+Burundi,BDI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,12.078
+Burundi,BDI,Urban population growth (annual %),SP.URB.GROW,4.720912812
+Cabo Verde,CPV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.3
+Cabo Verde,CPV,Urban population growth (annual %),SP.URB.GROW,1.874129117
+Cambodia,KHM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.188
+Cambodia,KHM,Urban population growth (annual %),SP.URB.GROW,3.118540361
+Cameroon,CMR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.578
+Cameroon,CMR,Urban population growth (annual %),SP.URB.GROW,4.256719555
+Canada,CAN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.259
+Canada,CAN,Urban population growth (annual %),SP.URB.GROW,0.810767766
+Cayman Islands,CYM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Cayman Islands,CYM,Urban population growth (annual %),SP.URB.GROW,2.24463645
+Central African Republic,CAF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.277
+Central African Republic,CAF,Urban population growth (annual %),SP.URB.GROW,1.221025125
+Chad,TCD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.515
+Chad,TCD,Urban population growth (annual %),SP.URB.GROW,3.821269132
+Channel Islands,CHI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.962
+Channel Islands,CHI,Urban population growth (annual %),SP.URB.GROW,0.683373958
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.36
+Chile,CHL,Urban population growth (annual %),SP.URB.GROW,1.094691346
+China,CHN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.5
+China,CHN,Urban population growth (annual %),SP.URB.GROW,2.842870548
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.764
+Colombia,COL,Urban population growth (annual %),SP.URB.GROW,1.380494192
+Comoros,COM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.47
+Comoros,COM,Urban population growth (annual %),SP.URB.GROW,2.624426023
+"Congo, Dem. Rep.",COD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.74
+"Congo, Dem. Rep.",COD,Urban population growth (annual %),SP.URB.GROW,4.708299539
+"Congo, Rep.",COG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.543
+"Congo, Rep.",COG,Urban population growth (annual %),SP.URB.GROW,3.08964367
+Costa Rica,CRI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.862
+Costa Rica,CRI,Urban population growth (annual %),SP.URB.GROW,2.251827421
+Cote d'Ivoire,CIV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.444
+Cote d'Ivoire,CIV,Urban population growth (annual %),SP.URB.GROW,3.454247897
+Croatia,HRV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.155
+Croatia,HRV,Urban population growth (annual %),SP.URB.GROW,-0.410081982
+Cuba,CUB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.896
+Cuba,CUB,Urban population growth (annual %),SP.URB.GROW,0.114929392
+Curacao,CUW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.352
+Curacao,CUW,Urban population growth (annual %),SP.URB.GROW,1.217371631
+Cyprus,CYP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.946
+Cyprus,CYP,Urban population growth (annual %),SP.URB.GROW,0.743032157
+Czechia,CZE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.477
+Czechia,CZE,Urban population growth (annual %),SP.URB.GROW,0.323237456
+Denmark,DNK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.526
+Denmark,DNK,Urban population growth (annual %),SP.URB.GROW,0.839047238
+Djibouti,DJI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.417
+Djibouti,DJI,Urban population growth (annual %),SP.URB.GROW,1.854406166
+Dominica,DMA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.579
+Dominica,DMA,Urban population growth (annual %),SP.URB.GROW,1.343411751
+Dominican Republic,DOM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.566
+Dominican Republic,DOM,Urban population growth (annual %),SP.URB.GROW,2.343036226
+Ecuador,ECU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.398
+Ecuador,ECU,Urban population growth (annual %),SP.URB.GROW,1.696160575
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.785
+"Egypt, Arab Rep.",EGY,Urban population growth (annual %),SP.URB.GROW,2.079125183
+El Salvador,SLV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.7
+El Salvador,SLV,Urban population growth (annual %),SP.URB.GROW,1.53844155
+Equatorial Guinea,GNQ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.616
+Equatorial Guinea,GNQ,Urban population growth (annual %),SP.URB.GROW,4.678398385
+Eritrea,ERI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.206
+Eritrea,ERI,Urban population growth (annual %),SP.URB.GROW,2.123184678
+Estonia,EST,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.416
+Estonia,EST,Urban population growth (annual %),SP.URB.GROW,0.280631504
+Eswatini,SWZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.3
+Eswatini,SWZ,Urban population growth (annual %),SP.URB.GROW,1.364645734
+Ethiopia,ETH,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.428
+Ethiopia,ETH,Urban population growth (annual %),SP.URB.GROW,4.933553685
+Faroe Islands,FRO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.638
+Faroe Islands,FRO,Urban population growth (annual %),SP.URB.GROW,1.053448254
+Fiji,FJI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.726
+Fiji,FJI,Urban population growth (annual %),SP.URB.GROW,1.1152774
+Finland,FIN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.225
+Finland,FIN,Urban population growth (annual %),SP.URB.GROW,0.388059711
+France,FRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.655
+France,FRA,Urban population growth (annual %),SP.URB.GROW,0.683771062
+French Polynesia,PYF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.683
+French Polynesia,PYF,Urban population growth (annual %),SP.URB.GROW,0.739463552
+Gabon,GAB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.118
+Gabon,GAB,Urban population growth (annual %),SP.URB.GROW,3.618323114
+"Gambia, The",GMB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.228
+"Gambia, The",GMB,Urban population growth (annual %),SP.URB.GROW,4.075764597
+Georgia,GEO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.448
+Georgia,GEO,Urban population growth (annual %),SP.URB.GROW,0.822919001
+Germany,DEU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.2
+Germany,DEU,Urban population growth (annual %),SP.URB.GROW,0.878656939
+Ghana,GHA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.086
+Ghana,GHA,Urban population growth (annual %),SP.URB.GROW,3.605160954
+Gibraltar,GIB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Gibraltar,GIB,Urban population growth (annual %),SP.URB.GROW,0.209321015
+Greece,GRC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.046
+Greece,GRC,Urban population growth (annual %),SP.URB.GROW,-0.217128484
+Greenland,GRL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.071
+Greenland,GRL,Urban population growth (annual %),SP.URB.GROW,-0.020702648
+Grenada,GRD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.997
+Grenada,GRD,Urban population growth (annual %),SP.URB.GROW,1.013783822
+Guam,GUM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,94.534
+Guam,GUM,Urban population growth (annual %),SP.URB.GROW,0.348853334
+Guatemala,GTM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.971
+Guatemala,GTM,Urban population growth (annual %),SP.URB.GROW,2.368139661
+Guinea,GIN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.141
+Guinea,GIN,Urban population growth (annual %),SP.URB.GROW,3.420999075
+Guinea-Bissau,GNB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.123
+Guinea-Bissau,GNB,Urban population growth (annual %),SP.URB.GROW,3.555964431
+Guyana,GUY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.441
+Guyana,GUY,Urban population growth (annual %),SP.URB.GROW,0.622053167
+Haiti,HTI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.427
+Haiti,HTI,Urban population growth (annual %),SP.URB.GROW,3.332683828
+Honduras,HND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.165
+Honduras,HND,Urban population growth (annual %),SP.URB.GROW,2.99648243
+"Hong Kong SAR, China",HKG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+"Hong Kong SAR, China",HKG,Urban population growth (annual %),SP.URB.GROW,0.851197911
+Hungary,HUN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.5
+Hungary,HUN,Urban population growth (annual %),SP.URB.GROW,0.150141441
+Iceland,ISL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,93.7
+Iceland,ISL,Urban population growth (annual %),SP.URB.GROW,1.077160783
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.777
+India,IND,Urban population growth (annual %),SP.URB.GROW,2.394052977
+Indonesia,IDN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.313
+Indonesia,IDN,Urban population growth (annual %),SP.URB.GROW,2.390745353
+"Iran, Islamic Rep.",IRN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.358
+"Iran, Islamic Rep.",IRN,Urban population growth (annual %),SP.URB.GROW,2.984144859
+Iraq,IRQ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.921
+Iraq,IRQ,Urban population growth (annual %),SP.URB.GROW,2.94836762
+Ireland,IRL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.538
+Ireland,IRL,Urban population growth (annual %),SP.URB.GROW,1.261963534
+Isle of Man,IMN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.245
+Isle of Man,IMN,Urban population growth (annual %),SP.URB.GROW,-0.203579872
+Israel,ISR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,92.179
+Israel,ISR,Urban population growth (annual %),SP.URB.GROW,2.062684956
+Italy,ITA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.565
+Italy,ITA,Urban population growth (annual %),SP.URB.GROW,0.325701454
+Jamaica,JAM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.833
+Jamaica,JAM,Urban population growth (annual %),SP.URB.GROW,0.810110476
+Japan,JPN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.381
+Japan,JPN,Urban population growth (annual %),SP.URB.GROW,-0.021827026
+Jordan,JOR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.256
+Jordan,JOR,Urban population growth (annual %),SP.URB.GROW,9.503967542
+Kazakhstan,KAZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.191
+Kazakhstan,KAZ,Urban population growth (annual %),SP.URB.GROW,1.589203106
+Kenya,KEN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.658
+Kenya,KEN,Urban population growth (annual %),SP.URB.GROW,3.918168605
+Kiribati,KIR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.619
+Kiribati,KIR,Urban population growth (annual %),SP.URB.GROW,3.139588862
+"Korea, Dem. People's Rep.",PRK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.277
+"Korea, Dem. People's Rep.",PRK,Urban population growth (annual %),SP.URB.GROW,0.816056523
+"Korea, Rep.",KOR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.634
+"Korea, Rep.",KOR,Urban population growth (annual %),SP.URB.GROW,0.437904533
+Kosovo,XKX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,..
+Kosovo,XKX,Urban population growth (annual %),SP.URB.GROW,..
+Kuwait,KWT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Kuwait,KWT,Urban population growth (annual %),SP.URB.GROW,3.837569365
+Kyrgyz Republic,KGZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.777
+Kyrgyz Republic,KGZ,Urban population growth (annual %),SP.URB.GROW,2.456733891
+Lao PDR,LAO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.108
+Lao PDR,LAO,Urban population growth (annual %),SP.URB.GROW,3.317448268
+Latvia,LVA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.98
+Latvia,LVA,Urban population growth (annual %),SP.URB.GROW,-0.777437304
+Lebanon,LBN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.106
+Lebanon,LBN,Urban population growth (annual %),SP.URB.GROW,2.146991391
+Lesotho,LSO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.908
+Lesotho,LSO,Urban population growth (annual %),SP.URB.GROW,2.625329281
+Liberia,LBR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.82
+Liberia,LBR,Urban population growth (annual %),SP.URB.GROW,2.888083212
+Libya,LBY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.27
+Libya,LBY,Urban population growth (annual %),SP.URB.GROW,1.867205672
+Liechtenstein,LIE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,14.303
+Liechtenstein,LIE,Urban population growth (annual %),SP.URB.GROW,0.619545772
+Lithuania,LTU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.23
+Lithuania,LTU,Urban population growth (annual %),SP.URB.GROW,-0.759129788
+Luxembourg,LUX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.179
+Luxembourg,LUX,Urban population growth (annual %),SP.URB.GROW,2.687531351
+"Macao SAR, China",MAC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+"Macao SAR, China",MAC,Urban population growth (annual %),SP.URB.GROW,1.816016042
+Madagascar,MDG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.193
+Madagascar,MDG,Urban population growth (annual %),SP.URB.GROW,4.478469017
+Malawi,MWI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.313
+Malawi,MWI,Urban population growth (annual %),SP.URB.GROW,3.874891639
+Malaysia,MYS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.213
+Malaysia,MYS,Urban population growth (annual %),SP.URB.GROW,2.360097086
+Maldives,MDV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.529
+Maldives,MDV,Urban population growth (annual %),SP.URB.GROW,5.526362663
+Mali,MLI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.991
+Mali,MLI,Urban population growth (annual %),SP.URB.GROW,5.154725186
+Malta,MLT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,94.414
+Malta,MLT,Urban population growth (annual %),SP.URB.GROW,2.457410236
+Marshall Islands,MHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.811
+Marshall Islands,MHL,Urban population growth (annual %),SP.URB.GROW,-1.457635858
+Mauritania,MRT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.089
+Mauritania,MRT,Urban population growth (annual %),SP.URB.GROW,4.395364352
+Mauritius,MUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41
+Mauritius,MUS,Urban population growth (annual %),SP.URB.GROW,-0.13799428
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.285
+Mexico,MEX,Urban population growth (annual %),SP.URB.GROW,1.535980297
+"Micronesia, Fed. Sts.",FSM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.456
+"Micronesia, Fed. Sts.",FSM,Urban population growth (annual %),SP.URB.GROW,0.657131811
+Moldova,MDA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.49
+Moldova,MDA,Urban population growth (annual %),SP.URB.GROW,-0.781168726
+Monaco,MCO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Monaco,MCO,Urban population growth (annual %),SP.URB.GROW,1.78404622
+Mongolia,MNG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.23
+Mongolia,MNG,Urban population growth (annual %),SP.URB.GROW,2.209112005
+Montenegro,MNE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.806
+Montenegro,MNE,Urban population growth (annual %),SP.URB.GROW,0.566550161
+Morocco,MAR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.809
+Morocco,MAR,Urban population growth (annual %),SP.URB.GROW,2.16662594
+Mozambique,MOZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.4
+Mozambique,MOZ,Urban population growth (annual %),SP.URB.GROW,4.57209821
+Myanmar,MMR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.858
+Myanmar,MMR,Urban population growth (annual %),SP.URB.GROW,1.501582168
+Namibia,NAM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.9
+Namibia,NAM,Urban population growth (annual %),SP.URB.GROW,4.07115473
+Nauru,NRU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Nauru,NRU,Urban population growth (annual %),SP.URB.GROW,2.214779795
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.557
+Nepal,NPL,Urban population growth (annual %),SP.URB.GROW,2.579770948
+Netherlands,NLD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.173
+Netherlands,NLD,Urban population growth (annual %),SP.URB.GROW,0.9802962
+New Caledonia,NCL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.379
+New Caledonia,NCL,Urban population growth (annual %),SP.URB.GROW,1.172404402
+New Zealand,NZL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.341
+New Zealand,NZL,Urban population growth (annual %),SP.URB.GROW,2.105557973
+Nicaragua,NIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.895
+Nicaragua,NIC,Urban population growth (annual %),SP.URB.GROW,1.775318072
+Niger,NER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.247
+Niger,NER,Urban population growth (annual %),SP.URB.GROW,4.001336632
+Nigeria,NGA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.838
+Nigeria,NGA,Urban population growth (annual %),SP.URB.GROW,4.346763549
+North Macedonia,MKD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.408
+North Macedonia,MKD,Urban population growth (annual %),SP.URB.GROW,-0.051449207
+Northern Mariana Islands,MNP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.357
+Northern Mariana Islands,MNP,Urban population growth (annual %),SP.URB.GROW,-0.569959061
+Norway,NOR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.091
+Norway,NOR,Urban population growth (annual %),SP.URB.GROW,1.48833778
+Oman,OMN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.35
+Oman,OMN,Urban population growth (annual %),SP.URB.GROW,5.943949572
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.026
+Pakistan,PAK,Urban population growth (annual %),SP.URB.GROW,1.872792953
+Palau,PLW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.159
+Palau,PLW,Urban population growth (annual %),SP.URB.GROW,0.815800648
+Panama,PAN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.696
+Panama,PAN,Urban population growth (annual %),SP.URB.GROW,2.229713974
+Papua New Guinea,PNG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,13.012
+Papua New Guinea,PNG,Urban population growth (annual %),SP.URB.GROW,2.727790966
+Paraguay,PRY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.75
+Paraguay,PRY,Urban population growth (annual %),SP.URB.GROW,1.877359341
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.357
+Peru,PER,Urban population growth (annual %),SP.URB.GROW,1.410371138
+Philippines,PHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.284
+Philippines,PHL,Urban population growth (annual %),SP.URB.GROW,2.083353285
+Poland,POL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.278
+Poland,POL,Urban population growth (annual %),SP.URB.GROW,-0.273799474
+Portugal,PRT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.514
+Portugal,PRT,Urban population growth (annual %),SP.URB.GROW,0.500060471
+Puerto Rico,PRI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,93.624
+Puerto Rico,PRI,Urban population growth (annual %),SP.URB.GROW,-1.788039024
+Qatar,QAT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,98.945
+Qatar,QAT,Urban population growth (annual %),SP.URB.GROW,8.729014397
+Romania,ROU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.887
+Romania,ROU,Urban population growth (annual %),SP.URB.GROW,-0.494176791
+Russian Federation,RUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.05
+Russian Federation,RUS,Urban population growth (annual %),SP.URB.GROW,0.414487432
+Rwanda,RWA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.004
+Rwanda,RWA,Urban population growth (annual %),SP.URB.GROW,2.603805547
+Samoa,WSM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.914
+Samoa,WSM,Urban population growth (annual %),SP.URB.GROW,-0.339655745
+San Marino,SMR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,96.739
+San Marino,SMR,Urban population growth (annual %),SP.URB.GROW,0.726264492
+Sao Tome and Principe,STP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.174
+Sao Tome and Principe,STP,Urban population growth (annual %),SP.URB.GROW,3.198619882
+Saudi Arabia,SAU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.18
+Saudi Arabia,SAU,Urban population growth (annual %),SP.URB.GROW,2.189460372
+Senegal,SEN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.862
+Senegal,SEN,Urban population growth (annual %),SP.URB.GROW,3.657856949
+Serbia,SRB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.696
+Serbia,SRB,Urban population growth (annual %),SP.URB.GROW,-0.291665657
+Seychelles,SYC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.4
+Seychelles,SYC,Urban population growth (annual %),SP.URB.GROW,3.01082827
+Sierra Leone,SLE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.829
+Sierra Leone,SLE,Urban population growth (annual %),SP.URB.GROW,3.385803567
+Singapore,SGP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Singapore,SGP,Urban population growth (annual %),SP.URB.GROW,1.186376937
+Sint Maarten (Dutch part),SXM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100
+Sint Maarten (Dutch part),SXM,Urban population growth (annual %),SP.URB.GROW,2.980223174
+Slovak Republic,SVK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.889
+Slovak Republic,SVK,Urban population growth (annual %),SP.URB.GROW,-0.110721648
+Slovenia,SVN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.781
+Slovenia,SVN,Urban population growth (annual %),SP.URB.GROW,0.492566224
+Solomon Islands,SLB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.36
+Solomon Islands,SLB,Urban population growth (annual %),SP.URB.GROW,4.623814599
+Somalia,SOM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.245
+Somalia,SOM,Urban population growth (annual %),SP.URB.GROW,4.676617337
+South Africa,ZAF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.828
+South Africa,ZAF,Urban population growth (annual %),SP.URB.GROW,2.873153342
+South Sudan,SSD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.852
+South Sudan,SSD,Urban population growth (annual %),SP.URB.GROW,1.036605467
+Spain,ESP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.602
+Spain,ESP,Urban population growth (annual %),SP.URB.GROW,0.219325483
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.256
+Sri Lanka,LKA,Urban population growth (annual %),SP.URB.GROW,0.665146746
+St. Kitts and Nevis,KNA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.827
+St. Kitts and Nevis,KNA,Urban population growth (annual %),SP.URB.GROW,-0.189882059
+St. Lucia,LCA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.515
+St. Lucia,LCA,Urban population growth (annual %),SP.URB.GROW,0.647910449
+St. Martin (French part),MAF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,..
+St. Martin (French part),MAF,Urban population growth (annual %),SP.URB.GROW,..
+St. Vincent and the Grenadines,VCT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.964
+St. Vincent and the Grenadines,VCT,Urban population growth (annual %),SP.URB.GROW,0.395126068
+Sudan,SDN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.894
+Sudan,SDN,Urban population growth (annual %),SP.URB.GROW,3.714176088
+Suriname,SUR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.056
+Suriname,SUR,Urban population growth (annual %),SP.URB.GROW,0.961900435
+Sweden,SWE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.553
+Sweden,SWE,Urban population growth (annual %),SP.URB.GROW,1.411616216
+Switzerland,CHE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.718
+Switzerland,CHE,Urban population growth (annual %),SP.URB.GROW,1.168186391
+Syrian Arab Republic,SYR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.168
+Syrian Arab Republic,SYR,Urban population growth (annual %),SP.URB.GROW,-3.126994421
+Tajikistan,TJK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.742
+Tajikistan,TJK,Urban population growth (annual %),SP.URB.GROW,2.672683193
+Tanzania,TZA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.617
+Tanzania,TZA,Urban population growth (annual %),SP.URB.GROW,5.625505692
+Thailand,THA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.694
+Thailand,THA,Urban population growth (annual %),SP.URB.GROW,2.062649241
+Timor-Leste,TLS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.49
+Timor-Leste,TLS,Urban population growth (annual %),SP.URB.GROW,2.973230166
+Togo,TGO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.1
+Togo,TGO,Urban population growth (annual %),SP.URB.GROW,3.812321151
+Tonga,TON,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.275
+Tonga,TON,Urban population growth (annual %),SP.URB.GROW,-0.70198376
+Trinidad and Tobago,TTO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.319
+Trinidad and Tobago,TTO,Urban population growth (annual %),SP.URB.GROW,0.477664656
+Tunisia,TUN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.056
+Tunisia,TUN,Urban population growth (annual %),SP.URB.GROW,1.53909907
+Turkiye,TUR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.611
+Turkiye,TUR,Urban population growth (annual %),SP.URB.GROW,2.062196295
+Turkmenistan,TKM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.317
+Turkmenistan,TKM,Urban population growth (annual %),SP.URB.GROW,2.597396269
+Turks and Caicos Islands,TCA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,92.195
+Turks and Caicos Islands,TCA,Urban population growth (annual %),SP.URB.GROW,4.716766116
+Tuvalu,TUV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.73
+Tuvalu,TUV,Urban population growth (annual %),SP.URB.GROW,1.394938924
+Uganda,UGA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.06
+Uganda,UGA,Urban population growth (annual %),SP.URB.GROW,5.644021762
+Ukraine,UKR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.061
+Ukraine,UKR,Urban population growth (annual %),SP.URB.GROW,-0.09701309
+United Arab Emirates,ARE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.674
+United Arab Emirates,ARE,Urban population growth (annual %),SP.URB.GROW,1.261559374
+United Kingdom,GBR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.626
+United Kingdom,GBR,Urban population growth (annual %),SP.URB.GROW,1.108747983
+United States,USA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.671
+United States,USA,Urban population growth (annual %),SP.URB.GROW,0.966674782
+Uruguay,URY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,95.045
+Uruguay,URY,Urban population growth (annual %),SP.URB.GROW,0.433656929
+Uzbekistan,UZB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.75
+Uzbekistan,UZB,Urban population growth (annual %),SP.URB.GROW,1.547412369
+Vanuatu,VUT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.961
+Vanuatu,VUT,Urban population growth (annual %),SP.URB.GROW,2.784712924
+"Venezuela, RB",VEN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.154
+"Venezuela, RB",VEN,Urban population growth (annual %),SP.URB.GROW,1.119531254
+Viet Nam,VNM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.809
+Viet Nam,VNM,Urban population growth (annual %),SP.URB.GROW,3.116340974
+Virgin Islands (U.S.),VIR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,95.35
+Virgin Islands (U.S.),VIR,Urban population growth (annual %),SP.URB.GROW,-0.014604154
+West Bank and Gaza,PSE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.368
+West Bank and Gaza,PSE,Urban population growth (annual %),SP.URB.GROW,2.629409538
+"Yemen, Rep.",YEM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.777
+"Yemen, Rep.",YEM,Urban population growth (annual %),SP.URB.GROW,4.4884117
+Zambia,ZMB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.907
+Zambia,ZMB,Urban population growth (annual %),SP.URB.GROW,4.45259503
+Zimbabwe,ZWE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.385
+Zimbabwe,ZWE,Urban population growth (annual %),SP.URB.GROW,1.769505057
+Africa Eastern and Southern,AFE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.42558369
+Africa Eastern and Southern,AFE,Urban population growth (annual %),SP.URB.GROW,4.282729397
+Africa Western and Central,AFW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.80586326
+Africa Western and Central,AFW,Urban population growth (annual %),SP.URB.GROW,4.178107708
+Caribbean small states,CSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.14700148
+Caribbean small states,CSS,Urban population growth (annual %),SP.URB.GROW,0.977388767
+Central Europe and the Baltics,CEB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.14067246
+Central Europe and the Baltics,CEB,Urban population growth (annual %),SP.URB.GROW,-0.186829794
+Early-demographic dividend,EAR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.8666208
+Early-demographic dividend,EAR,Urban population growth (annual %),SP.URB.GROW,2.352764072
+East Asia & Pacific (excluding high income),EAP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.70506808
+East Asia & Pacific (excluding high income),EAP,Urban population growth (annual %),SP.URB.GROW,2.711836554
+East Asia & Pacific (IDA & IBRD countries),TEA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.59860876
+East Asia & Pacific (IDA & IBRD countries),TEA,Urban population growth (annual %),SP.URB.GROW,2.739836145
+Euro area,EMU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.09169369
+Euro area,EMU,Urban population growth (annual %),SP.URB.GROW,0.572733132
+Europe & Central Asia (excluding high income),ECA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.65019238
+Europe & Central Asia (excluding high income),ECA,Urban population growth (annual %),SP.URB.GROW,1.284818162
+Europe & Central Asia (IDA & IBRD countries),TEC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.84216487
+Europe & Central Asia (IDA & IBRD countries),TEC,Urban population growth (annual %),SP.URB.GROW,0.743901153
+European Union,EUU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.90777231
+European Union,EUU,Urban population growth (annual %),SP.URB.GROW,0.477072783
+Fragile and conflict affected situations,FCS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.83911693
+Fragile and conflict affected situations,FCS,Urban population growth (annual %),SP.URB.GROW,3.210428343
+Heavily indebted poor countries (HIPC),HPC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.68723235
+Heavily indebted poor countries (HIPC),HPC,Urban population growth (annual %),SP.URB.GROW,4.267887091
+High income,HIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.62743484
+High income,HIC,Urban population growth (annual %),SP.URB.GROW,0.739709459
+IBRD only,IBD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.29042839
+IBRD only,IBD,Urban population growth (annual %),SP.URB.GROW,2.22716003
+IDA & IBRD total,IBT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.75382901
+IDA & IBRD total,IBT,Urban population growth (annual %),SP.URB.GROW,2.459674335
+IDA blend,IDB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.73253365
+IDA blend,IDB,Urban population growth (annual %),SP.URB.GROW,3.174942098
+IDA only,IDX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.60970695
+IDA only,IDX,Urban population growth (annual %),SP.URB.GROW,3.722377118
+IDA total,IDA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.33402145
+IDA total,IDA,Urban population growth (annual %),SP.URB.GROW,3.510033507
+Late-demographic dividend,LTE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.80838038
+Late-demographic dividend,LTE,Urban population growth (annual %),SP.URB.GROW,2.167232706
+Latin America & Caribbean (excluding high income),LAC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.31292354
+Latin America & Caribbean (excluding high income),LAC,Urban population growth (annual %),SP.URB.GROW,1.413226987
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.8847219
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Urban population growth (annual %),SP.URB.GROW,1.406505047
+Least developed countries: UN classification,LDC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.02269586
+Least developed countries: UN classification,LDC,Urban population growth (annual %),SP.URB.GROW,4.134998054
+Low & middle income,LMY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.79397381
+Low & middle income,LMY,Urban population growth (annual %),SP.URB.GROW,2.586189587
+Low income,LIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.43992475
+Low income,LIC,Urban population growth (annual %),SP.URB.GROW,3.731036227
+Lower middle income,LMC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.04578555
+Lower middle income,LMC,Urban population growth (annual %),SP.URB.GROW,2.839419461
+Middle East & North Africa (excluding high income),MNA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.35665378
+Middle East & North Africa (excluding high income),MNA,Urban population growth (annual %),SP.URB.GROW,2.683084151
+Middle East & North Africa (IDA & IBRD countries),TMN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.185203
+Middle East & North Africa (IDA & IBRD countries),TMN,Urban population growth (annual %),SP.URB.GROW,2.683353101
+Middle income,MIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.5488213
+Middle income,MIC,Urban population growth (annual %),SP.URB.GROW,2.509158944
+Not classified,INX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,..
+Not classified,INX,Urban population growth (annual %),SP.URB.GROW,..
+OECD members,OED,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.99124921
+OECD members,OED,Urban population growth (annual %),SP.URB.GROW,0.872892121
+Other small states,OSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.55733229
+Other small states,OSS,Urban population growth (annual %),SP.URB.GROW,1.878788682
+Pacific island small states,PSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.04409776
+Pacific island small states,PSS,Urban population growth (annual %),SP.URB.GROW,1.678268793
+Post-demographic dividend,PST,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.74378496
+Post-demographic dividend,PST,Urban population growth (annual %),SP.URB.GROW,0.663965203
+Pre-demographic dividend,PRE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.72171823
+Pre-demographic dividend,PRE,Urban population growth (annual %),SP.URB.GROW,4.317474077
+Small states,SST,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.15710954
+Small states,SST,Urban population growth (annual %),SP.URB.GROW,1.733223899
+South Asia,SAS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.75580601
+South Asia,SAS,Urban population growth (annual %),SP.URB.GROW,2.46937439
+South Asia (IDA & IBRD),TSA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.75580601
+South Asia (IDA & IBRD),TSA,Urban population growth (annual %),SP.URB.GROW,2.46937439
+Sub-Saharan Africa (excluding high income),SSA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.62976604
+Sub-Saharan Africa (excluding high income),SSA,Urban population growth (annual %),SP.URB.GROW,4.233697047
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.63131919
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Urban population growth (annual %),SP.URB.GROW,4.233538928
+Upper middle income,UMC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.28404576
+Upper middle income,UMC,Urban population growth (annual %),SP.URB.GROW,2.310105957
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 11/13/2024,,,,
